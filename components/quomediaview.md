@@ -5,8 +5,8 @@
 . | . |
 ---|---
 File considered complete | ✔
-Fact checked by the developer | ✔ Qronikarz(GitHub)
-Last updated | 2024-04-18
+Fact checked by the developer | ✔ Qronikarz(GitHub)-(v1.1)-(2024-04-25)
+Last updated | 2024-04-25
 
 ## General info
 . | . |
