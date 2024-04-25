@@ -5,7 +5,7 @@ Explanations for used terminology in program specific markdown files.
 . | . |
 ---|---
 File considered complete | If every category is filled and possibly checked by actual long standing users of the program it may get marked with ✔ otherwise ❌. 
-Fact checked by the developer | It may be possible even the users don't know all the features a program offers so this category is the same as above but only marked ✔ and the developer name if the actual program developer reads the file and has no objections. Otherwise marked as ❌
+Fact checked by the developer | It may be possible even the users don't know all the features a program offers so this category is the same as above but only marked ✔ and the developer name if the actual program developer reads the file and has no objections. Otherwise marked as ❌. Include the version that was checked and date of approval.
 Last updated | Date of last update of the file in YYYY-MM-DD format
 
 ## General info
@@ -85,7 +85,7 @@ View item inside program | File/item can be viewed inside the program. For examp
 Items view types | How the actual file is viewed - new window, sidebar, same window but fullscreen or any other applicable. It's different from all files/items view - for example Firefox bookmarks may be viewed in sidebar, but they can't be opened in the sidebar and require a new window or tab.
 Open item in another program | Some shortcut to open the item in another program - like file browsers opening image viewer 
 Open item disk location | Some shortcut to open the file in system file browser
-Item organization | How the files/items are presented - it may be pagination, infinite scroll or any other form available.
+Item organization | How the files/items are presented - it may be pagination, infinite scroll, folders or any other form available. List all of them.
 Icons | Files/items show icons
 Thumbnails | Files/items show thumbnails
 Resizing | Files/items can be resized. Generally referred to some form of icons or thumbnails but text can also be resized.
