@@ -112,3 +112,8 @@ https://hydrusnetwork.github.io/hydrus/advanced_siblings.html - Documentation fo
 
 https://github.com/microsoft/VoTT - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 
+https://www.youtube.com/watch?v=wTQeMkYRMcw - Tags explanation and a concept of advanced tagging feature
+
+https://news.ycombinator.com/item?id=33248391 - 250+ comments detailed discussion about tagging systems, problems and avantages
+
+https://recognize-anything.github.io/ - open-source image recognition models that can be included into programs
