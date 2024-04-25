@@ -6,7 +6,7 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-18
+Last updated | 2024-04-25
 
 ## General info
 . | . |
@@ -40,7 +40,7 @@ Cross-platform | ✔
 Portable | ✔
 Install methods | .exe, portable versions in archive, .dmg, .deb, .appimage, Docker
 Theming support | 
-Tag support links | 
+Tag support links | https://docs.tagspaces.org/tagging
 
 ## Tagging specific features
 . | . |
@@ -56,24 +56,24 @@ Tag groups | ✔
 All available tags view | ✔
 Multiple items tagging | ✔
 Search combining | 
-Tag autocomplete | 
+Tag autocomplete | ✔
 Tag colors | ✔
 Exclude tags from search | 
 Tag blocking | 
-Tag deleting | 
+Tag deleting | ✔
 Tag renaming | ✔ + ❌ [^2]
 Tag aliases | 
 Tag implications | 
 Other tag relations | 
 Tag descriptions | 
 Not allowed naming symbols | OS forbidden filename characters [^3]
-Tag sorting | 
-Tags backup | 
+Tag sorting | A-Z inside tag group
+Tags backup | ✔
 Single item tags view | ✔
 Tag statistics | 
 Hidden tags | 
 Tagging with AI | 
-Auto saving | 
+Auto saving | ✔
 Auto loading | ✔
 Cloud saving | 
 
@@ -85,7 +85,7 @@ View item inside program | ✔
 Items view types | Same window, Side panel
 Open item in another program | 
 Open item disk location | ✔
-Item organization | Infinite scroll
+Item organization | Infinite scroll, Folders
 Icons | 
 Thumbnails | ✔
 Resizing | 
@@ -98,7 +98,7 @@ Hiding items |
 Moving items | ✔
 Sorting items | 
 Duplicate checking | 
-Items backup | 
+Items backup | ✔
 
 ## Notes
 
