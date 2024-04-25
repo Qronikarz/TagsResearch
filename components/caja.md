@@ -6,7 +6,7 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-18
+Last updated | 2024-04-25
 
 ## General info
 . | . |
@@ -85,7 +85,7 @@ View item inside program |
 Items view types | 
 Open item in another program | 
 Open item disk location | ✔
-Item organization | Infinite scroll
+Item organization | Infinite scroll, Folders
 Icons | ✔
 Thumbnails | ✔
 Resizing | ✔
