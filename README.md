@@ -1,9 +1,8 @@
 # Tags research
 Knowledge base originally made for improving QuoMediaView, rewritten for public access. New goals are to provide useful information for developers able to implement tags and establish a new standard/specification that allows for file tagging on every major platform (or at least unify the Linux ones).
 
-## ! IMPORTANT:
-
-Looking for someone to pass this project to. It was used as listed above and I want it to become a general documentation that somebody more talented oversees. I'm happy just to provide info and this was currently the best form possible to do. Someone else may make it into GitBook documentation or a website that shares the same goal, but is presented visually better along with program screenshots and translations.
+> [!NOTE]
+> Looking for someone to pass this project to. It was used as listed above and I want it to become a general documentation that somebody more talented oversees. I'm happy just to provide info and this was currently the best form possible to do. Someone else may make it into GitBook documentation or a website that shares the same goal, but is presented visually better along with program screenshots and translations.
 
 # Resources
 [Tags Overview](components/tagsoverview.md) - markdown file with an explanation of tagging systems in comparison with traditional folder based approach. Best for beginners.
@@ -72,14 +71,27 @@ Every added and listed program must have a link to more detailed description in 
 [digiKam](components/digikam.md) | Image manager | Windows, Linux, macOS | free | ✔ GPL 2 | ✔ | ✔ | | GUI
 [Shimmie 2](components/shimmie.md) | Media board | Windows, Web | free | ✔ GPL 2 | ✔ | | | GUI
 [Eagle](components/eagle.md) | File manager | Windows, macOS | paid + free trial | | ✔ | | | GUI
+[TagStudio](components/tagstudio.md) | File manager | Windows, Linux, macOS | free | ✔ GPL 3 | ✔ | ✔ | ✔ | GUI
+[Spacedrive](components/spacedrive.md) | File browser | Windows, Linux, macOS | free | ✔ AGPL 3 | ✔ | ✔ | | GUI
+[Logseq](components/logseq.md) | Text writing manager | Windows, Linux, macOS, Android, iOS | free | ✔ AGPL 3 | ✔ | ✔ | | GUI
+[Omnivore](components/omnivore.md) | Read-it-later manager | Web, Android, iOS | free | ✔ AGPL 3 | ✔ | | | GUI
+[nb](components/nb.md) | Text writing and bookmark manager | Windows, Linux, macOS | free | ✔ AGPL 3 | ✔ | ✔ | ✔ | CLI
+[filetags](components/filetags.md) | Files tag manager | Windows, Linux, macOS | free | ✔ GPL 3 | ✔ | ✔ | ✔ | CLI
+[Hoarder](components/hoarder.md) | Bookmark manager | Web, Android, iOS | free | ✔ AGPL 3 | ✔ | | | GUI
+[Grimoire](components/grimoire.md) | Bookmark manager | Web? | free | ✔ MIT | ✔ | | | GUI
+[Linkwarden](components/linkwarden.md) | Bookmark manager | Web | free + paid | ✔ AGPL 3 | ✔ | | | GUI
+[Raindrop.io](components/raindrop-io.md) | Bookmark manager | Windows, Linux, macOS, Web, Android, iOS | free + paid | ? | ✔ | ✔ | | GUI
+[bibliothecula](components/bibliothecula.md) | Document organizer | Windows, Linux, macOS | free | ✔ GPL 3 | | ✔ | | GUI, CLI
+[Hyperplane](components/hyperplane.md) | File browser | Linux | free | ✔ GPL 3 | ✔ | | | GUI
+[friends](components/friends.md) | people relationship calendar/diary? | Linux? | free | ✔ MIT | | | | CLI
 
 # Contributors list
 Qronikarz(GitHub), 
 
 # Fully completed files:
-[Tags Overview](components/tagsoverview.md), [Tags Research](components/tagsresearch.md), [Glossary](components/glossary.md), [Program Template](components/programtemplate.md)
+Research: [Tags Overview](components/tagsoverview.md), [Tags Research](components/tagsresearch.md), [Glossary](components/glossary.md), [Program Template](components/programtemplate.md)
 
-[QuoMediaView](components/quomediaview.md),
+Programs: [QuoMediaView](components/quomediaview.md),
 
 # License
 CC-BY-SA-4.0
@@ -87,4 +99,6 @@ CC-BY-SA-4.0
 If there's a better license feel free to suggest it. Main goal was to have it available for copying and using it in other projects - like for example if somebody wants to convert it into something like Gitbook documentation then there should be no problems.
 
 # File info
-Last updated | 2024-04-18
+Last updated | 2024-04-25
+
+Number of programs in database | 46
