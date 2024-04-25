@@ -6,7 +6,7 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-18
+Last updated | 2024-04-25
 
 ## General info
 . | . |
@@ -85,7 +85,7 @@ View item inside program | ✔
 Items view types | Same window, Lightbox
 Open item in another program | ✔
 Open item disk location | ✔
-Item organization | Infnite scroll
+Item organization | Infnite scroll, Folders
 Icons | 
 Thumbnails | ✔
 Resizing | 
