@@ -81,11 +81,20 @@ On Linux the file browsers that support "xdg.user.space" store tags as a CSV for
 Other programs may offer their own solution to backing the tags themselves. Like before said with QuoMediaView there is a button that exports the whole database for you in JSON format for you to store wherever you want as a backup.
 
 # Tags management
-Once you get used to tags all the tags you use may start to grow. And grow. And keep growing. Let's consider 1000 tags as a common result which may grow even larger. If there's at least a place/window where all tags are listed you can take a look at what tags have you been using, but there are still problems with organizing this new database that you've created.
+Once you get used to tags all the tags you use may start to grow. And grow. And keep growing. Let's consider 1000 tags as a possible result which may grow even larger. If there's at least a place/window where all tags are listed you can take a look at what tags have you been using, but there are still problems with organizing this new database that you've created.
 
 What if you made a typo in the tag? What if due to slightly different spelling you have essentially 2 the same tags but applied to different files? What if you want to use synonyms for some words? What if you want to search for "water" but your file is only tagged with "lake"?
 
 Tags come with their own fair share of problems. It can be challenging to manage all the tags you've started to create. That's why it would be good if the programs offered some deduplication based on naming or spelling correction so there are no typos. If the tags are stored only in your files then you would need to manually rename them whenever such situation arises. Tags should also be able to have relations to other tags - exactly like in languages we can have different ways to name the same thing we should be able to do the same with tags. If some tag belongs to wider tag just like with water/lake example you shouldn't need to tag files with all your tags but the ones that match the most. More talented developers may implement a mind map of tags and how they relate to each other so you can instantly see visually which tags are the most popular in your collection.
+
+# One problem of "virtual" tag systems
+If the method that was chosen to store tags depends on the files by themselves (file name, metadata, inside file itself) the tags are considered non-fragile and should stay when performing operations on the files. That is a good thing for cross platform compatibility, but it may affect the performance since the program needs to read all the files which may take more time. It shouldn't be particularly noticable nowadays thanks to Solid State Disks being in wide use, but it may be a problem for slower storage solutions.
+
+Some programs despite storing tags in the files also keep track of tagged files in other form - generally database or some list. It allows them to keep track of tagged files without reading the whole disk or folder. Example of that is KDE's Plasma Dolphin with Baloo file indexing.
+
+The methods of storing tags that are left - database and virtual file system that don't rely on files themselves while offering best performance may lead to abandoning the tags. If the tags is moved or renamed it is possible that the user may need to locate the file manually to restore the tags stored in the program. Other programs of this type may identify the file by their hash so the rename and moving will not lead to any lost tags, but changing the file itself will lead to that.
+
+One possible way of solving that issue is to rely on all of the above - file name, location and the hash. So called watcher service can then automatically run in the background or be started by the user from time to time and detect any file changes. If the file was changed, renamed, moved the watcher program/service can deal with it by itself. And if everything fails, the user can locate the file manually since the tags are stored in database.
 
 # Worth checking for more
 https://karl-voit.at/2019/11/26/Tagging-Files-With-Windows-10/ - A detailed guide describing how to use tags in Windows 10. Which file extensions are restricted from it and overall problems with Windows implementation.
