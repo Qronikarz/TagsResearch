@@ -6,13 +6,13 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-25
+Last updated | 2024-05-16
 
 ## General info
 . | . |
 ---|---
 Name | TagStudio
-Newest version | 9.1.0-alpha
+Newest version | 9.2.0
 Type | File manager
 Website | 
 Tag/key words support | ✔
@@ -27,11 +27,11 @@ Repository | https://github.com/CyanVoxel/TagStudio
 Roadmap | 
 Documentation | 
 Written in | Python
-Architectures | 
+Architectures | 64 bit, ARM 64 bit
 Updates | ✔
-Last update date | 
+Last update date | 2024-05-14
 Works offline | ✔
-Language support | 
+Language support | English
 UI type | GUI
 Interface toolkit | Qt
 Dark mode | ✔
@@ -45,16 +45,16 @@ Tag support links |
 ## Tagging specific features
 . | . |
 ---|---
-Type of tagging | Database
-Supported files/items | all without folders?
-Modifies items | 
-Can modify items | 
-Modifies metadata | 
+Type of tagging | JSON code
+Supported files/items | all without folders
+Modifies items | ❌
+Can modify items | ✔
+Modifies metadata | ❌
 Tags prevail item modification | 
 Custom tags | ✔
 Tag groups | ✔
-All available tags view | 
-Multiple items tagging | 
+All available tags view | ✔
+Multiple items tagging | ✔
 Search combining | 
 Tag autocomplete | 
 Tag colors | ✔
@@ -83,8 +83,8 @@ Cloud saving |
 Search view types | Grid
 View item inside program | 
 Items view types | 
-Open item in another program | 
-Open item disk location | 
+Open item in another program | ✔
+Open item disk location | ✔
 Item organization | Infinite scroll, Pagination
 Icons | 
 Thumbnails | ✔
