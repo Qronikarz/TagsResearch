@@ -5,14 +5,14 @@
 . | . |
 ---|---
 File considered complete | ✔
-Fact checked by the developer | ✔ Qronikarz(GitHub)-(v1.1)-(2024-04-25)
-Last updated | 2024-04-25
+Fact checked by the developer | ✔ Qronikarz(GitHub)-(v0.3)-(2024-05-30)
+Last updated | 2024-05-30
 
 ## General info
 . | . |
 ---|---
 Name | QuoMediaView
-Newest version | 1.1
+Newest version | 0.3
 Type | Media board
 Website | ❌
 Tag/key words support | ✔
@@ -29,7 +29,7 @@ Documentation | ❌
 Written in | HTML 5, CSS 3, JavaScript
 Architectures | 32 bit, 64 bit, ARM 32 bit, ARM 64 bit
 Updates | ✔
-Last update date | 2023-09-05
+Last update date | 2024-05-30
 Works offline | ✔
 Language support | English
 UI type | GUI
@@ -68,7 +68,7 @@ Other tag relations | ❌
 Tag descriptions | ✔
 Not allowed naming symbols | whitespace, JSON control characters, backslash, double quote
 Tag sorting | ✔ A-Z
-Tags backup | ✔ JSON code
+Tags backup | ✔ JSON code, text export
 Single item tags view | ✔
 Tag statistics | ✔
 Hidden tags | ✔
