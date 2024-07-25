@@ -6,7 +6,7 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-25
+Last updated | 2024-07-25
 
 ## General info
 . | . |
@@ -29,7 +29,7 @@ Documentation |
 Written in | Python
 Architectures | 
 Updates | ✔
-Last update date | 2024-01-13
+Last update date | 2024-06-28
 Works offline | ✔
 Language support | 
 UI type | CLI
@@ -46,28 +46,28 @@ Tag support links |
 . | . |
 ---|---
 Type of tagging | File names rename
-Supported files/items | all without folders
+Supported files/items | All without folders
 Modifies items | ✔
 Can modify items | ✔
-Modifies metadata | 
+Modifies metadata | ❌
 Tags prevail item modification | ✔
 Custom tags | ✔
 Tag groups | 
-All available tags view | 
-Multiple items tagging | 
-Search combining | 
-Tag autocomplete | 
+All available tags view | ✔
+Multiple items tagging | ✔
+Search combining | ✔ Boolean AND
+Tag autocomplete | ✔
 Tag colors | 
 Exclude tags from search | 
 Tag blocking | 
 Tag deleting | 
-Tag renaming | 
+Tag renaming | ✔
 Tag aliases | 
 Tag implications | 
-Other tag relations | 
+Other tag relations | Mutually exclusive tags (tag can prevent other tag from appearing)
 Tag descriptions | 
 Not allowed naming symbols | OS forbidden characters
-Tag sorting | 
+Tag sorting | A-Z, Count
 Tags backup | 
 Single item tags view | ✔
 Tag statistics | 
@@ -75,7 +75,7 @@ Hidden tags |
 Tagging with AI | 
 Auto saving | ✔
 Auto loading | ✔
-Cloud saving | 
+Cloud saving | ✔
 
 ## Tagged items features
 . | . |
