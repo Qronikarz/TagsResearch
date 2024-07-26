@@ -76,7 +76,7 @@ Every added and listed program must have a link to more detailed description in 
 [Logseq](components/logseq.md) | Text writing manager | Windows, Linux, macOS, Android, iOS | free | ✔ AGPL 3 | ✔ | ✔ | | GUI
 [Omnivore](components/omnivore.md) | Read-it-later manager | Web, Android, iOS | free | ✔ AGPL 3 | ✔ | | | GUI
 [nb](components/nb.md) | Text writing and bookmark manager | Windows, Linux, macOS | free | ✔ AGPL 3 | ✔ | ✔ | ✔ | CLI
-[filetags](components/filetags.md) | Files tag manager | Windows, Linux, macOS | free | ✔ GPL 3 | ✔ | ✔ | ✔ | CLI
+[filetags](components/filetags.md) | File name modification management | Windows, Linux, macOS | free | ✔ GPL 3 | ✔ | ✔ | ✔ | CLI
 [Hoarder](components/hoarder.md) | Bookmark manager | Web, Android, iOS | free | ✔ AGPL 3 | ✔ | | | GUI
 [Grimoire](components/grimoire.md) | Bookmark manager | Web? | free | ✔ MIT | ✔ | | | GUI
 [Linkwarden](components/linkwarden.md) | Bookmark manager | Web | free + paid | ✔ AGPL 3 | ✔ | | | GUI
@@ -104,6 +104,6 @@ CC-BY-SA-4.0
 If there's a better license feel free to suggest it. Main goal was to have it available for copying and using it in other projects - like for example if somebody wants to convert it into something like Gitbook documentation then there should be no problems.
 
 # File info
-Last updated | 2024-07-11
+Last updated | 2024-07-26
 
 Number of programs in database | 51
