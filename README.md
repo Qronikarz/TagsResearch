@@ -1,9 +1,6 @@
 # Tags research
 Knowledge base originally made for improving QuoMediaView, rewritten for public access. New goals are to provide useful information for developers able to implement tags and establish a new standard/specification that allows for file tagging on every major platform (or at least unify the Linux ones).
 
-> [!NOTE]
-> Looking for someone to pass this project to. It was used as listed above and I want it to become a general documentation that somebody more talented oversees. I'm happy just to provide info and this was currently the best form possible to do. Someone else may make it into GitBook documentation or a website that shares the same goal, but is presented visually better along with program screenshots and translations.
-
 # Resources
 [Tags Overview](components/tagsoverview.md) - markdown file with an explanation of tagging systems in comparison with traditional folder based approach. Best for beginners.
 
@@ -89,6 +86,7 @@ Every added and listed program must have a link to more detailed description in 
 [Files](components/files-community.md) | File browser | Windows | free | ✔ MIT | ✔ | | | GUI
 [GitHub](components/github.md) | Git development platform | Web | free + paid | | ✔ | | | GUI
 [GitLab](components/gitlab.md) | Git development platform | Web | free + paid | ✔ MIT | ✔ | | | GUI
+[Kanri](components/kanri.md) | Project management board | Windows, macOS, Linux | free | ✔ MIT | ✔ GPL 3 | ✔ | ✔ | GUI
 
 # Contributors list
 Qronikarz(GitHub), 
@@ -104,6 +102,6 @@ CC-BY-SA-4.0
 If there's a better license feel free to suggest it. Main goal was to have it available for copying and using it in other projects - like for example if somebody wants to convert it into something like Gitbook documentation then there should be no problems.
 
 # File info
-Last updated | 2024-07-26
+Last updated | 2024-12-18
 
-Number of programs in database | 51
+Number of programs in database | 52
