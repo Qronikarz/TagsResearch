@@ -94,7 +94,9 @@ Qronikarz(GitHub),
 # Fully completed files:
 Research: [Tags Overview](components/tagsoverview.md), [Tags Research](components/tagsresearch.md), [Glossary](components/glossary.md), [Program Template](components/programtemplate.md)
 
-Programs: [QuoMediaView](components/quomediaview.md),
+Programs: [QuoMediaView](components/quomediaview.md), [Kanri](components/kanri.md)
+
+Programs checked by developers: [QuoMediaView](components/quomediaview.md), [Kanri](components/kanri.md)
 
 # License
 CC-BY-SA-4.0
