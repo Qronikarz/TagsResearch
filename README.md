@@ -86,7 +86,7 @@ Every added and listed program must have a link to more detailed description in 
 [Files](components/files-community.md) | File browser | Windows | free | ✔ MIT | ✔ | | | GUI
 [GitHub](components/github.md) | Git development platform | Web | free + paid | | ✔ | | | GUI
 [GitLab](components/gitlab.md) | Git development platform | Web | free + paid | ✔ MIT | ✔ | | | GUI
-[Kanri](components/kanri.md) | Project management board | Windows, macOS, Linux | free | ✔ MIT | ✔ GPL 3 | ✔ | ✔ | GUI
+[Kanri](components/kanri.md) | Project management board | Windows, macOS, Linux | free | ✔ GPL 3 | ✔ | ✔ | ✔ | GUI
 
 # Contributors list
 Qronikarz(GitHub), 
