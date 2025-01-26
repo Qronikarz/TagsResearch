@@ -107,5 +107,5 @@ Items backup |
 Qronikarz(GitHub), 
 
 [^1]: Refer to https://github.com/deckerst/aves/wiki/Support:-Metadata-editing for more info
-[^2]: Refer to https://github.com/deckerst/aves/wiki/Support:-Metadata-editing for more info
-[^3]: Refer to https://github.com/deckerst/aves/wiki/Support:-Metadata-editing for more info
+[^2]: Deleting tags requires deleting them from all files that have the tags
+[^3]: Hiding the tags requires the same like deleting in adnotation nr 2
