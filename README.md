@@ -88,7 +88,7 @@ Every added and listed program must have a link to more detailed description in 
 [GitLab](components/gitlab.md) | Git development platform | Web | free + paid | ✔ MIT | ✔ | | | GUI
 [Kanri](components/kanri.md) | Project management board | Windows, macOS, Linux | free | ✔ GPL 3 | ✔ | ✔ | ✔ | GUI
 [Quillpad](components/quillpad.md) | Notes app | Android | free | ✔ GPL 3 | ✔ | | | GUI
-[Aves](components/quillpad.md) | Media gallery | Android | free | ✔ BSD-3-Clause | ✔ | | ✔ | GUI
+[Aves](components/aves.md) | Media gallery | Android | free | ✔ BSD-3-Clause | ✔ | | ✔ | GUI
 
 # Contributors list
 Qronikarz(GitHub), 
