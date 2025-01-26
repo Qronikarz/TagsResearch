@@ -88,6 +88,7 @@ Every added and listed program must have a link to more detailed description in 
 [GitLab](components/gitlab.md) | Git development platform | Web | free + paid | ✔ MIT | ✔ | | | GUI
 [Kanri](components/kanri.md) | Project management board | Windows, macOS, Linux | free | ✔ GPL 3 | ✔ | ✔ | ✔ | GUI
 [Quillpad](components/quillpad.md) | Notes app | Android | free | ✔ GPL 3 | ✔ | | | GUI
+[Aves](components/quillpad.md) | Media gallery | Android | free | ✔ BSD-3-Clause | ✔ | | ✔ | GUI
 
 # Contributors list
 Qronikarz(GitHub), 
@@ -105,6 +106,6 @@ CC-BY-SA-4.0
 If there's a better license feel free to suggest it. Main goal was to have it available for copying and using it in other projects - like for example if somebody wants to convert it into something like Gitbook documentation then there should be no problems.
 
 # File info
-Last updated | 2025-01-02
+Last updated | 2025-01-26
 
-Number of programs in database | 53
+Number of programs in database | 54
