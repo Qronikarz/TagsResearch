@@ -33,13 +33,13 @@ Tables are sorted by the number of check marks first and software name second.
 **UI type** - The interface that tagging uses - either GUI, CLI or in some cases both.
 
 ## Categories explanations
-**OS Default file browsers** - file browsing programs included by default on various operating systems
-**Files** - programs that deal with many different files - images, videos, documents, texts, archives etc.
-**Media** - programs that deal with only media files - images, videos, audio etc. 
-**Text** - programs that deal with text files. They may or may not offer the ability to edit those text files
-**Bookmarks** - programs that deal with website bookmarks. This should be specifically mentioned somewhere in the documentation of the program.
-**Games** - programs that deal with games and the game library organizing.
-**Other** - programs that don't match any of the above categories
+1) **OS Default file browsers** - file browsing programs included by default on various operating systems
+2) **Files** - programs that deal with many different files - images, videos, documents, texts, archives etc.
+3) **Media** - programs that deal with only media files - images, videos, audio etc. 
+4) **Text** - programs that deal with text files. They may or may not offer the ability to edit those text files
+5) **Bookmarks** - programs that deal with website bookmarks. This should be specifically mentioned somewhere in the documentation of the program.
+6) **Games** - programs that deal with games and the game library organizing.
+7) **Other** - programs that don't match any of the above categories
 
 # OS Default file browsers
 
