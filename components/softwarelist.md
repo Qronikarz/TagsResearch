@@ -9,7 +9,7 @@
 
 # Explanations
 
-Every program listed in here must have some sort of tagging feature which was minimally defined as:
+Every program listed in here must have some sort of tagging feature which in addition to the ability to tag items, was minimally defined as:
 1) Name of the tag must be chosen by user
 2) Viewing the item that was tagged must show all the tags that were attached to this item
 3) Searching with the tag should show all items that have the tag that was used in search.
