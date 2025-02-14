@@ -1,11 +1,11 @@
 # Contents:
-[OS Default file browsers](#os-default-file-browsers)
-[Files](#Files)
-[Media](#Media)
-[Text](#Text)
-[Bookmarks](#Bookmarks)
-[Games](#Games)
-[Other](#Other)
+1) [OS Default file browsers](#os-default-file-browsers)
+2) [Files](#Files)
+3) [Media](#Media)
+4) [Text](#Text)
+5) [Bookmarks](#Bookmarks)
+6) [Games](#Games)
+7) [Other](#Other)
 
 # Explanations
 
