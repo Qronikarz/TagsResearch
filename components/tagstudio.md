@@ -4,104 +4,106 @@
 ## File info
 . | . |
 ---|---
-File considered complete | ❌
+File considered complete | ✔
 Fact checked by the developer | ❌
-Last updated | 2024-05-16
+Last updated | 2025-03-04
 
 ## General info
 . | . |
 ---|---
 Name | TagStudio
-Newest version | 9.2.0
+Newest version | 9.5.0 alpha
 Type | File manager
-Website | 
+Website | ❌
 Tag/key words support | ✔
-Tag specification | 
+Tag specification | ❌
 Supported OS | Windows, Linux, macOS
 OSs default | ❌
-Supported file systems | 
-Required dependencies | Python 3.12
+Supported file systems | all [^1]
+Required dependencies | Python 3.12, FFmpeg (for video thumbnails and playback)
 Price | free
 Open-source | ✔ GPL 3
 Repository | https://github.com/CyanVoxel/TagStudio
-Roadmap | 
-Documentation | 
+Roadmap | https://docs.tagstud.io/updates/roadmap/
+Documentation | https://docs.tagstud.io/
 Written in | Python
 Architectures | 64 bit, ARM 64 bit
 Updates | ✔
-Last update date | 2024-05-14
+Last update date | 2025-03-04
 Works offline | ✔
-Language support | English
+Language support | English, French, German, Hungarian, Polish
 UI type | GUI
 Interface toolkit | Qt
 Dark mode | ✔
-Accessibility support | 
+Accessibility support | ❌
 Cross-platform | ✔
 Portable | ✔
-Install methods | .sh, .py, .bat
-Theming support | 
-Tag support links | 
+Install methods | .exe, install from source, linux executable, .app
+Theming support | ❌
+Tag support links | https://docs.tagstud.io/library/tag/
 
 ## Tagging specific features
 . | . |
 ---|---
-Type of tagging | JSON code
-Supported files/items | all without folders
+Type of tagging | SQLite database
+Supported files/items | All without folders
 Modifies items | ❌
 Can modify items | ✔
 Modifies metadata | ❌
-Tags prevail item modification | 
+Tags prevail item modification | ✔
 Custom tags | ✔
 Tag groups | ✔
 All available tags view | ✔
 Multiple items tagging | ✔
-Search combining | 
-Tag autocomplete | 
+Search combining | ✔
+Tag autocomplete | ❌
 Tag colors | ✔
-Exclude tags from search | 
-Tag blocking | 
-Tag deleting | 
+Exclude tags from search | ✔
+Tag blocking | ❌
+Tag deleting | ✔
 Tag renaming | ✔
 Tag aliases | ✔
 Tag implications | ✔
-Other tag relations | 
-Tag descriptions | 
-Not allowed naming symbols | 
-Tag sorting | 
+Other tag relations | ❌
+Tag descriptions | ❌
+Not allowed naming symbols | ❌
+Tag sorting | ❌
 Tags backup | ✔
 Single item tags view | ✔
-Tag statistics | 
-Hidden tags | 
-Tagging with AI | 
+Tag statistics | ❌
+Hidden tags | ❌
+Tagging with AI | ❌
 Auto saving | ✔
 Auto loading | ✔
-Cloud saving | 
+Cloud saving | ❌
 
 ## Tagged items features
 . | . |
 ---|---
 Search view types | Grid
-View item inside program | 
-Items view types | 
+View item inside program | ✔
+Items view types | Side preview
 Open item in another program | ✔
 Open item disk location | ✔
-Item organization | Infinite scroll, Pagination
-Icons | 
+Item organization | Infinite scroll
+Icons | ❌
 Thumbnails | ✔
-Resizing | 
-Full-screen mode | 
+Resizing | ✔
+Full-screen mode | ❌
 Title/name | ✔
 Description | ✔
 Item path | ✔
-Item Details | Type, Size, Width, Height,
-Hiding items | 
-Moving items | 
-Sorting items | 
-Duplicate checking | 
-Items backup | 
+Item Details | Type, Size, Width, Height, Creation date, Modification date
+Hiding items | ❌
+Moving items | ❌
+Sorting items | ✔ Date added,
+Duplicate checking | ✔
+Items backup | ✔
 
 ## Notes
 Explanation of tags, advanced tag feature concepts and goals of this program: https://www.youtube.com/watch?v=wTQeMkYRMcw
 
 # Contributors list
 Qronikarz(GitHub), 
+
+[^1]: Doesn't use any filesystem related features to store tags
