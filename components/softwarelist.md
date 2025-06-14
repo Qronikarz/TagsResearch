@@ -22,15 +22,15 @@ Software may be listed in more than 1 table in some cases but generally if somet
 
 Tables are sorted by the number of check marks first and software name second.
 
-**Supported OS** - Operating System that specific software works on. Software may have a version for other platform, but only versions with tags are to be listed (for example: Steam - you can't view collections on Android). Web in OS means you can put the software on some server and access it through a website with a browser.
+**Account not required** - Due to many programs needing account this category is placed next to the price to quickly see if you need ONLINE account to use the program. Worded with "not" to make the checkmark count for the above sorting rule. Local accounts don't count here.
+
+**Supported OS** - Operating System that specific software works on. Software may have a version for other platform, but only versions with tags are to be listed (for example: Steam - you can't view collections on Android). Website in OS means you can put the software on some server and access it through a website with a browser.
 
 **updates** - Updated at least once a year with either new features or bugfixes (documentation/readmes do not count)
 
-**cross-platform** - It must work between three big platforms - Windows, Linux and macOS. 
+**cross-platform** - D - Desktop only (data works between Windows, Linux and macOS), M - Mobile only (data works between Android and iOS), A - All (data works between all OSs - Windows, Linux, macOS, Android and iOS), W - Website (can be accessed on a website using a browser on any of the OS). Any of them count for the checkmark. A =/= W for clearer categorization.
 
 **portable** - Ability to run software from other disks or USB devices. Does not need cross-platform support.
-
-**UI type** - The interface that tagging uses - either GUI, CLI or in some cases both.
 
 ## Categories explanations
 1) **OS Default file browsers** - file browsing programs included by default on various operating systems
@@ -64,69 +64,71 @@ Tables are sorted by the number of check marks first and software name second.
 
 # Files
 
-⌄Name\Features> | Type | Supported OS |  Price | Open-Source | Updates | Cross-platform | Portable | UI type
+⌄Name\Features> | Type | Supported OS | Price | Account not required | Open-Source | Updates | Cross-platform | Portable
 ---|---|---|---|---|---|---|---|---
-[filetags](filetags.md) | File name modification management | Windows, Linux, macOS | free | ✔ GPL 3 | ✔ | ✔ | ✔ | CLI
-[TagSpaces](tagspaces.md) | File manager | Windows, Linux, macOS, Android, Web | free + paid | ✔ AGPL 3 | ✔ | ✔ | ✔ | GUI
-[TagStudio](tagstudio.md) | File manager | Windows, Linux, macOS | free | ✔ GPL 3 | ✔ | ✔ | ✔ | GUI
-[Spacedrive](spacedrive.md) | File browser | Windows, Linux, macOS | free | ✔ AGPL 3 | ✔ | ✔ | | GUI
-[Files](files-community.md) | File browser | Windows | free | ✔ MIT | ✔ | | | GUI
-[Hyperplane](hyperplane.md) | File browser | Linux | free | ✔ GPL 3 | ✔ | | | GUI
-[TMSU](tmsu.md) | CLI utility | Linux | free | ✔ GPL 3  | | | ✔ | CLI
-[Eagle](eagle.md) | File manager | Windows, macOS | paid + free trial | | ✔ | | | GUI
+[filetags](filetags.md) | File name modification management | Windows, Linux, macOS | free | ✔ | ✔ GPL 3 | ✔ | D | ✔
+[TagSpaces](tagspaces.md) | File manager | Windows, Linux, macOS, Android, Website | free + paid | ✔ | ✔ AGPL 3 | ✔ | D, W | ✔
+[TagStudio](tagstudio.md) | File manager | Windows, Linux, macOS | free | ✔ | ✔ GPL 3 | ✔ | D | ✔
+[Spacedrive](spacedrive.md) | File browser | Windows, Linux, macOS | free | ✔ | ✔ AGPL 3 | ✔ | D
+[Files](files-community.md) | File browser | Windows | free | ✔ | ✔ MIT | ✔
+[TMSU](tmsu.md) | CLI utility | Linux | free | ✔ | ✔ GPL 3 | | | ✔
+[Hyperplane](hyperplane.md) | File browser | Linux | free | ✔ | ✔ GPL 3
+[Eagle](eagle.md) | File manager | Windows, macOS | paid + free trial | | | ✔
 
 # Media
 
-⌄Name\Features> | Type | Supported OS |  Price | Open-Source | Updates | Cross-platform | Portable | UI type
+⌄Name\Features> | Type | Supported OS | Price | Account not required | Open-Source | Updates | Cross-platform | Portable
 ---|---|---|---|---|---|---|---|---
-[QuoMediaView](quomediaview.md) | Media board | Windows, Linux, macOS, Android, Web | free | ✔ AGPL 3 | ✔ | ✔ | ✔ | GUI
-[Aves](aves.md) | Media gallery | Android | free | ✔ BSD-3-Clause | ✔ | | ✔ | GUI
-[digiKam](digikam.md) | Image manager | Windows, Linux, macOS | free | ✔ GPL 2 | ✔ | ✔ | | GUI
-[HomeGallery](homegallery.md) | Media gallery | Windows, Linux, macOS, Web | free | ✔ MIT | ✔ | ✔ | | GUI
-[Hydrus](hydrus.md) | Media board | Windows, Linux, macOS | free | ✔ WTFPL | ✔ | ✔ | | GUI
-[Danbooru](danbooru.md) | Media board | Web | free | ✔ FreeBSD License | ✔ | | | GUI
-[Pix](pix.md) | Image manager | Linux | free | ✔ GPL 2 | ✔ | | | GUI
-[Shimmie 2](shimmie.md) | Media board | Windows, Web | free | ✔ GPL 2 | ✔ | | | GUI
-[szurubooru](szurubooru.md) | Media board | Web | free | ✔ GPL 3 | | | | GUI
+[digiKam](digikam.md) | Image manager | Windows, Linux, macOS | free | ✔ | ✔ GPL 2 | ✔ | D | ✔
+[Aves](aves.md) | Media gallery | Android | free | ✔ | ✔ BSD-3-Clause | ✔ | | ✔
+[Danbooru](danbooru.md) | Media board | Website | free | ✔ | ✔ FreeBSD License | ✔ | W
+[HomeGallery](homegallery.md) | Media gallery | Windows, Linux, macOS, Website | free | ✔ | ✔ MIT | ✔ | D, W
+[Hydrus](hydrus.md) | Media board | Windows, Linux, macOS | free | ✔ | ✔ WTFPL | ✔ | D
+[QuoMediaView](quomediaview.md) | Media board | Windows, Linux, macOS, Android, Website, iOS | free | ✔ | ✔ AGPL 3 | | A, W | ✔
+[Shimmie 2](shimmie.md) | Media board | Windows, Website | free | ✔ | ✔ GPL 2 | ✔ | W
+[Pix](pix.md) | Image manager | Linux | free | ✔ | ✔ GPL 2 | ✔
+[szurubooru](szurubooru.md) | Media board | Website | free | | ✔ GPL 3 | | W
 
 # Text
 
-⌄Name\Features> | Type | Supported OS |  Price | Open-Source | Updates | Cross-platform | Portable | UI type
+⌄Name\Features> | Type | Supported OS | Price | Account not required | Open-Source | Updates | Cross-platform | Portable
 ---|---|---|---|---|---|---|---|---
-[nb](nb.md) | Text writing and bookmark manager | Windows, Linux, macOS | free | ✔ AGPL 3 | ✔ | ✔ | ✔ | CLI
-[QOwnNotes](qownnotes.md) | Text writing manager | Windows, Linux, macOS | free | ✔ GPL 2 | ✔ | ✔ | ✔ | GUI
-[Logseq](logseq.md) | Text writing manager | Windows, Linux, macOS, Android, iOS | free | ✔ AGPL 3 | ✔ | ✔ | | GUI
-[Obsidian](obsidian.md) | Text writing manager | Windows, Linux, macOS, Android, iOS | free + paid | | ✔ | ✔ | ✔ | GUI
-[bibliothecula](bibliothecula.md) | Document organizer | Windows, Linux, macOS | free | ✔ GPL 3 | | ✔ | | GUI, CLI
-[Planify](planify.md) | To-do list | Linux | free | ✔ GPL 3 | ✔ | | | GUI
-[Quillpad](quillpad.md) | Notes app | Android | free | ✔ GPL 3 | ✔ | | | GUI
+[nb](nb.md) | Text writing and bookmark manager | Windows, Linux, macOS | free | ✔ | ✔ AGPL 3 | ✔ | D | ✔
+[QOwnNotes](qownnotes.md) | Text writing manager | Windows, Linux, macOS | free | ✔ | ✔ GPL 2 | ✔ | D | ✔
+[Logseq](logseq.md) | Text writing manager | Windows, Linux, macOS, Android, iOS | free | ✔ | ✔ AGPL 3 | ✔ | A
+[Obsidian](obsidian.md) | Text writing manager | Windows, Linux, macOS, Android, iOS | free + paid | ✔ | | ✔ | A | ✔
+[bibliothecula](bibliothecula.md) | Document organizer | Windows, Linux, macOS | free | ✔ | ✔ GPL 3 | | ✔
+[Material Notes](material-notes.md) | Notes app | Android | free | ✔ | ✔ AGPL 3 | ✔
+[Quillpad](quillpad.md) | Notes app | Android | free | ✔ | ✔ GPL 3 | ✔
+
 
 # Bookmarks
 
-⌄Name\Features> | Type | Supported OS |  Price | Open-Source | Updates | Cross-platform | Portable | UI type
+⌄Name\Features> | Type | Supported OS | Price | Account not required | Open-Source | Updates | Cross-platform | Portable
 ---|---|---|---|---|---|---|---|---
-[Firefox](firefox.md) | Browser + bookmark manager | Windows, Linux, macOS | free | ✔ MPL 2.0 | ✔ | ✔ | ✔ | GUI
-[nb](nb.md) | Text writing and bookmark manager | Windows, Linux, macOS | free | ✔ AGPL 3 | ✔ | ✔ | ✔ | CLI
-[Grimoire](grimoire.md) | Bookmark manager | Web? | free | ✔ MIT | ✔ | | | GUI
-[Hoarder](hoarder.md) | Bookmark manager | Web, Android, iOS | free | ✔ AGPL 3 | ✔ | | | GUI
-[Linkwarden](linkwarden.md) | Bookmark manager | Web | free + paid | ✔ AGPL 3 | ✔ | | | GUI
-[Omnivore](omnivore.md) | Read-it-later manager | Web, Android, iOS | free | ✔ AGPL 3 | ✔ | | | GUI
-[Raindrop.io](raindrop-io.md) | Bookmark manager | Windows, Linux, macOS, Web, Android, iOS | free + paid | ? | ✔ | ✔ | | GUI
+[Firefox](firefox.md) | Browser + bookmark manager | Windows, Linux, macOS | free | ✔ | ✔ MPL 2.0 | ✔ | D | ✔
+[nb](nb.md) | Text writing and bookmark manager | Windows, Linux, macOS | free | ✔ | ✔ AGPL 3 | ✔ | D | ✔
+[Grimoire](grimoire.md) | Bookmark manager | Website | free | ✔ | ✔ MIT | ✔ | W
+[Karakeep](karakeep.md) | Bookmark manager | Website, Android, iOS | free | ✔ | ✔ AGPL 3 | ✔ | W
+[Omnivore](omnivore.md) | Read-it-later manager | Android, iOS | free | ✔ | ✔ AGPL 3 | ✔ | M
+[Linkwarden](linkwarden.md) | Bookmark manager | Website | free + paid | | ✔ AGPL 3 | ✔ | W
+[Raindrop.io](raindrop-io.md) | Bookmark manager | Windows, Linux, macOS, Android, iOS | free + paid | | ? | ✔ | A
 
 # Games
 
-⌄Name\Features> | Type | Supported OS |  Price | Open-Source | Updates | Cross-platform | Portable | UI type
+⌄Name\Features> | Type | Supported OS | Price | Account not required | Open-Source | Updates | Cross-platform | Portable
 ---|---|---|---|---|---|---|---|---
-[Heroic Games Launcher](heroicgameslauncher.md) | Gaming launcher | Windows, Linux, macOS | free | ✔ GPL 3 | ✔ | ✔ | | GUI
-[Playnite](playnite.md) | Gaming library + launcher | Windows | free | ✔ MIT | ✔ | | ✔ | GUI
-[Steam](steam.md) | Gaming store + launcher | Windows, Linux, macOS | free | | ✔ | ✔ | | GUI
+[Heroic Games Launcher](heroicgameslauncher.md) | Gaming launcher | Windows, Linux, macOS | free | ✔ | ✔ GPL 3 | ✔ | ✔ | ✔
+[Playnite](playnite.md) | Gaming library + launcher | Windows | free | ✔ | ✔ MIT | ✔ | | ✔
+[Steam](steam.md) | Gaming store + launcher | Windows, Linux, macOS | free | | | ✔ | D
 
 # Other
 
-⌄Name\Features> | Type | Supported OS |  Price | Open-Source | Updates | Cross-platform | Portable | UI type
+⌄Name\Features> | Type | Supported OS | Price | Account not required | Open-Source | Updates | Cross-platform | Portable
 ---|---|---|---|---|---|---|---|---
-[Kanri](kanri.md) | Project management board | Windows, macOS, Linux | free | ✔ GPL 3 | ✔ | ✔ | ✔ | GUI
-[Discourse](discourse.md) | Forum | Web | free + paid | ✔ GPL 2 | ✔ | | | GUI
-[GitLab](gitlab.md) | Git development platform | Web | free + paid | ✔ MIT | ✔ | | | GUI
-[friends](friends.md) | people relationship calendar/diary? | Linux? | free | ✔ MIT | | | | CLI
-[GitHub](github.md) | Git development platform | Web | free + paid | | ✔ | | | GUI
+[Kanri](kanri.md) | Project management board | Windows, macOS, Linux | free | ✔ | ✔ GPL 3 | ✔ | D | ✔
+[Discourse](discourse.md) | Forum | Website | free + paid | ✔ | ✔ GPL 2 | ✔ | W
+[GitLab](gitlab.md) | Git development platform | Website | free + paid | ✔ | ✔ MIT | ✔ | W
+[Planify](planify.md) | To-do list | Linux | free | ✔ | ✔ GPL 3 | ✔
+[friends](friends.md) | people relationship calendar/diary? | Linux? | free | ✔ | ✔ MIT
+[GitHub](github.md) | Git development platform | Website | free + paid | | | ✔ | W
