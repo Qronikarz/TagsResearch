@@ -6,7 +6,8 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-25
+Last updated | 2025-06-12
+Last checked for updates | 2025-06-12
 
 ## General info
 . | . |
@@ -22,6 +23,7 @@ OSs default | Majority of Linux distributions
 Supported file systems | n/a [^1]
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ MPL 2.0
 Repository | https://searchfox.org/mozilla-central/source
 Roadmap | https://whattrainisitnow.com/calendar/
@@ -36,7 +38,7 @@ UI type | GUI
 Interface toolkit | 
 Dark mode | ✔
 Accessibility support | ✔
-Cross-platform | ✔
+Cross-platform | Desktop
 Portable | ✔
 Install methods | .exe, .msi, .dmg, Linux native packages, .deb, Flatpak, Snap
 Theming support | ✔
@@ -46,10 +48,7 @@ Tag support links | https://support.mozilla.org/en-US/kb/categorizing-bookmarks-
 . | . |
 ---|---
 Type of tagging | JSON or HTML code
-Supported files/items | bookmarked websites
-Modifies items | ❌
-Can modify items | ❌
-Modifies metadata | ❌
+Supported items | bookmarked websites
 Tags prevail item modification | ✔
 Custom tags | ✔
 Tag groups | 
@@ -84,7 +83,6 @@ Search view types | List
 View item inside program | ✔
 Items view types | New window/tab
 Open item in another program | ❌
-Open item disk location | ❌
 Item organization | Infinite scroll, Folders
 Icons | ✔
 Thumbnails | ❌
@@ -92,13 +90,15 @@ Resizing | ✔
 Full-screen mode | ❌
 Title/name | ✔
 Description | ❌
-Item path | ❌
 Item Details | URL address
 Hiding items | 
 Moving items | ✔
 Sorting items | ✔
-Duplicate checking | ✔
+Duplicate checking | ✔ [^2]
 Items backup | ✔ export and import of bookmarks in JSON or HTML code
+Copying items | ✔
+Deleting items | ✔
+Renaming items | ✔
 
 ## Notes
 
@@ -107,3 +107,4 @@ Items backup | ✔ export and import of bookmarks in JSON or HTML code
 Qronikarz(GitHub), 
 
 [^1]: Firefox stores tags in bookmarks in it's own format (either HTML or JSON) which shouldn't require any file system specific features.
+[^2]: Firefox displays a star when you open a website that is already bookmarked, but you can create duplicates by copying it in bookmarks window/panel. It also doesn't recognize ? and # parameters as the same website which means that when you change a chapter on the same page, firefox will not show that it is already saved.
