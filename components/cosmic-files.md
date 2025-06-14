@@ -6,13 +6,14 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-18
+Last updated | 2025-06-12
+Last checked for updates | 2025-06-12
 
 ## General info
 . | . |
 ---|---
 Name | cosmic-files
-Newest version | 
+Newest version | epoch-1.0.0-alpha.7
 Type | File browser
 Website | 
 Tag/key words support | ❌
@@ -22,6 +23,7 @@ OSs default | Pop!_OS
 Supported file systems | 
 Required dependencies | 
 Price | free
+Account required | 
 Open-source | ✔ GPL 3
 Repository | https://github.com/pop-os/cosmic-files
 Roadmap | 
@@ -29,7 +31,7 @@ Documentation |
 Written in | Rust, Fluent, Just
 Architectures | 
 Updates | ✔
-Last update date | 
+Last update date | 2025-04-22
 Works offline | ✔
 Language support | 
 UI type | GUI
@@ -46,15 +48,15 @@ Tag support links | https://github.com/pop-os/cosmic-files/issues/42
 . | . |
 ---|---
 Type of tagging | 
-Supported files/items | 
-Modifies items | 
-Can modify items | 
-Modifies metadata | 
-Tags prevail item modification | 
+Supported files | 
+Modifies files | 
+Can modify files | 
+Modifies file metadata | 
+Tags prevail file modification | 
 Custom tags | 
 Tag groups | 
 All available tags view | 
-Multiple items tagging | 
+Multiple files tagging | 
 Search combining | 
 Tag autocomplete | 
 Tag colors | 
@@ -69,7 +71,7 @@ Tag descriptions |
 Not allowed naming symbols | 
 Tag sorting | 
 Tags backup | 
-Single item tags view | 
+Single file tags view | 
 Tag statistics | 
 Hidden tags | 
 Tagging with AI | 
@@ -77,28 +79,31 @@ Auto saving |
 Auto loading | 
 Cloud saving | 
 
-## Tagged items features
+## Tagged files features
 . | . |
 ---|---
 Search view types | 
-View item inside program | 
-Items view types | 
-Open item in another program | 
-Open item disk location | 
-Item organization | 
+View file inside program | 
+File view types | 
+Open file in another program | 
+Open file disk location | 
+File organization | 
 Icons | 
 Thumbnails | 
 Resizing | 
 Full-screen mode | 
 Title/name | 
 Description | 
-Item path | 
-Item Details | 
-Hiding items | 
-Moving items | 
-Sorting items | 
+File path | 
+File details | 
+Hiding files | 
+Moving files | 
+Sorting files | 
 Duplicate checking | 
-Items backup | 
+Files backup | 
+Copying files | 
+Deleting files | 
+Renaming files | 
 
 ## Notes
 
