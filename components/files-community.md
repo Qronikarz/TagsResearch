@@ -6,13 +6,14 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-05-30
+Last updated | 2025-06-12
+Last checked for updates | 2025-06-12
 
 ## General info
 . | . |
 ---|---
 Name | Files
-Newest version | 3.4.1
+Newest version | 3.9.1
 Type | File browser
 Website | https://files.community/
 Tag/key words support | ✔
@@ -22,6 +23,7 @@ OSs default | ❌
 Supported file systems | NTFS
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ MIT
 Repository | https://github.com/files-community/files/
 Roadmap | 
@@ -29,7 +31,7 @@ Documentation | https://files.community/docs
 Written in | C#, C++
 Architectures | 
 Updates | ✔
-Last update date | 2024-05-13
+Last update date | 2025-02-07
 Works offline | 
 Language support | 
 UI type | GUI
@@ -46,15 +48,15 @@ Tag support links | https://files.community/docs/features/tags
 . | . |
 ---|---
 Type of tagging | NTFS data streams
-Supported files/items | all
-Modifies items | ✔
-Can modify items | ✔
-Modifies metadata | ✔
-Tags prevail item modification | 
+Supported files | all
+Modifies files | ✔
+Can modify files | ✔
+Modifies file metadata | ✔
+Tags prevail file modification | 
 Custom tags | ✔
 Tag groups | 
 All available tags view | ✔
-Multiple items tagging | ✔
+Multiple files tagging | ✔
 Search combining | ✔
 Tag autocomplete | 
 Tag colors | ✔
@@ -69,7 +71,7 @@ Tag descriptions |
 Not allowed naming symbols | 
 Tag sorting | 
 Tags backup | ✔ tags defnition file export/import
-Single item tags view | ✔
+Single file tags view | ✔
 Tag statistics | 
 Hidden tags | 
 Tagging with AI | 
@@ -77,28 +79,31 @@ Auto saving | ✔
 Auto loading | ✔
 Cloud saving | 
 
-## Tagged items features
+## Tagged files features
 . | . |
 ---|---
 Search view types | List
-View item inside program | ✔
-Items view types | Side panel preview
-Open item in another program | ✔
-Open item disk location | ✔
-Item organization | Infinite scroll, folders
+View file inside program | ✔
+File view types | Side panel preview
+Open file in another program | ✔
+Open file disk location | ✔
+File organization | Infinite scroll, folders
 Icons | ✔
 Thumbnails | 
 Resizing | 
 Full-screen mode | 
 Title/name | ✔
 Description |
-Item path | ✔
-Item Details | 
-Hiding items | 
-Moving items | ✔
-Sorting items | 
+File path | ✔
+File Details | 
+Hiding files | 
+Moving files | ✔
+Sorting files | 
 Duplicate checking | 
-Items backup | ✔
+Files backup | ✔
+Copying files | ✔
+Deleting files | ✔
+Renaming files | ✔
 
 ## Notes
 It shares the method of storing tags with default Windows file explorer. Which means it may also share the same disadvantages.
