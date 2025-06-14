@@ -6,13 +6,14 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-18
+Last updated | 2025-06-14
+Last checked for updates | 2025-06-14
 
 ## General info
 . | . |
 ---|---
 Name | Thunar
-Newest version | 4.19.2
+Newest version | 4.211
 Type | File browser
 Website | 
 Tag/key words support | ❌
@@ -22,6 +23,7 @@ OSs default | MX Linux, Kali
 Supported file systems | 
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ GPL 2
 Repository | https://gitlab.xfce.org/xfce/thunar
 Roadmap | 
@@ -29,7 +31,7 @@ Documentation | https://docs.xfce.org/xfce/thunar/start
 Written in | C, Makefile, M4Sugar, Shell
 Architectures | 
 Updates | ✔
-Last update date | 2023-12-30
+Last update date | 2025-05-16
 Works offline | ✔
 Language support | 
 UI type | GUI
@@ -46,15 +48,15 @@ Tag support links |
 . | . |
 ---|---
 Type of tagging | 
-Supported files/items | 
-Modifies items | 
-Can modify items | 
-Modifies metadata | 
-Tags prevail item modification | 
+Supported files | 
+Modifies files | 
+Can modify files | 
+Modifies file metadata | 
+Tags prevail file modification | 
 Custom tags | 
 Tag groups | 
 All available tags view | 
-Multiple items tagging | 
+Multiple files tagging | 
 Search combining | 
 Tag autocomplete | 
 Tag colors | 
@@ -77,28 +79,31 @@ Auto saving |
 Auto loading | 
 Cloud saving | 
 
-## Tagged items features
+## Tagged files features
 . | . |
 ---|---
 Search view types | 
-View item inside program | 
-Items view types | 
-Open item in another program | 
-Open item disk location | 
-Item organization | 
+View file inside program | 
+File view types | 
+Open file in another program | 
+Open file disk location | 
+File organization | 
 Icons | 
 Thumbnails | 
 Resizing | 
 Full-screen mode | 
 Title/name | 
 Description | 
-Item path | 
-Item Details | 
-Hiding items | 
-Moving items | 
-Sorting items | 
+File path | 
+File details | 
+Hiding files | 
+Moving files | 
+Sorting files | 
 Duplicate checking | 
-Items backup | 
+Files backup | 
+Copying files | 
+Deleting files | 
+Renaming files | 
 
 ## Notes
 
