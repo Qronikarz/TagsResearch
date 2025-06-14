@@ -6,13 +6,14 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-18
+Last updated | 2025-06-14
+Last checked for updates | 2025-06-14
 
 ## General info
 . | . |
 ---|---
 Name | Playnite
-Newest version | 10.33
+Newest version | 10.36
 Type | Gaming library + launcher
 Website | https://playnite.link/
 Tag/key words support | ✔
@@ -22,6 +23,7 @@ OSs default | ❌
 Supported file systems | 
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ MIT
 Repository | https://github.com/JosefNemec/Playnite
 Roadmap | https://github.com/JosefNemec/Playnite/milestones
@@ -29,7 +31,7 @@ Documentation | https://api.playnite.link/docs/manual/gettingStarted/gettingStar
 Written in | C#, Powershell
 Architectures | 
 Updates | ✔
-Last update date | 2024-04-15
+Last update date | 2025-06-12
 Works offline | ✔
 Language support | 
 UI type | GUI
@@ -46,10 +48,7 @@ Tag support links | https://api.playnite.link/docs/manual/library/games/metadata
 . | . |
 ---|---
 Type of tagging | Tags
-Supported files/items | Games
-Modifies items | 
-Can modify items | ✔
-Modifies metadata | ✔
+Supported items | Games
 Tags prevail item modification | 
 Custom tags | ✔
 Tag groups | 
@@ -84,7 +83,6 @@ Search view types | Grid, List
 View item inside program | ✔
 Items view types | Same window
 Open item in another program | ✔ Launch game
-Open item disk location | 
 Item organization | Infinite scroll
 Icons | ✔
 Thumbnails | ✔
@@ -92,13 +90,15 @@ Resizing |
 Full-screen mode | 
 Title/name | ✔
 Description | ✔
-Item path | 
 Item Details | Play time, Last played date, Library, Platform, Genre, Developer, Publisher, Release date, Links, Install status, Completion status
 Hiding items | 
 Moving items | 
 Sorting items | A-Z
 Duplicate checking | 
 Items backup | 
+Copying items | 
+Deleting items | 
+Renaming items | 
 
 ## Notes
 WIP version 11 of Playnite is supposed to bring cross-platformness, but no timeframe yet.
