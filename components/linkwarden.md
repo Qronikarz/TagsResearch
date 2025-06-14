@@ -6,22 +6,24 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-25
+Last updated | 2025-06-14
+Last checked for updates | 2025-06-14
 
 ## General info
 . | . |
 ---|---
 Name | Linkwarden
-Newest version | 2.5.3
+Newest version | 2.10.2
 Type | Bookmark manager
 Website | https://linkwarden.app/
 Tag/key words support | ✔
 Tag specification | 
-Supported OS | Web
+Supported OS | Website
 OSs default | ❌
 Supported file systems | 
 Required dependencies | 
 Price | free + paid
+Account required | ❌
 Open-source | ✔ AGPL 3
 Repository | https://github.com/linkwarden/linkwarden
 Roadmap | https://github.com/orgs/linkwarden/projects/1
@@ -29,14 +31,14 @@ Documentation | https://docs.linkwarden.app/
 Written in | TypeScript, JavaScript
 Architectures | 
 Updates | ✔
-Last update date | 2024-04-18
+Last update date | 2025-05-06
 Works offline | 
 Language support | 
 UI type | GUI
 Interface toolkit | 
 Dark mode | ✔
 Accessibility support | 
-Cross-platform | 
+Cross-platform | Website
 Portable | 
 Install methods | Docker, Manual install
 Theming support | ✔
@@ -46,10 +48,7 @@ Tag support links |
 . | . |
 ---|---
 Type of tagging | 
-Supported files/items | bookmarks
-Modifies items | 
-Can modify items | 
-Modifies metadata | 
+Supported items | bookmarks
 Tags prevail item modification | 
 Custom tags | ✔
 Tag groups | 
@@ -84,7 +83,6 @@ Search view types | Grid, List
 View item inside program | ✔
 Items view types | Same window/tab
 Open item in another program | ✔
-Open item disk location | 
 Item organization | Infinite scroll
 Icons | ✔
 Thumbnails | ✔ [^1]
@@ -92,13 +90,15 @@ Resizing |
 Full-screen mode | 
 Title/name | ✔
 Description | ✔
-Item path | 
 Item Details | URL, Creation date
 Hiding items | 
 Moving items | 
 Sorting items | 
 Duplicate checking | 
 Items backup | ✔ [^2]
+Copying items | 
+Deleting items | 
+Renaming items | 
 
 ## Notes
 
