@@ -6,13 +6,14 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-05-16
+Last updated | 2025-06-14
+Last checked for updates | 2025-06-14
 
 ## General info
 . | . |
 ---|---
 Name | Planify
-Newest version | 4.7.2
+Newest version | 4.12.0
 Type | To-do list
 Website | 
 Tag/key words support | ✔
@@ -22,6 +23,7 @@ OSs default | ❌
 Supported file systems | 
 Required dependencies | GTK4, Libadwaita
 Price | free
+Account required | ❌
 Open-source | ✔ GPL 3
 Repository | https://github.com/alainm23/planify
 Roadmap | 
@@ -29,7 +31,7 @@ Documentation |
 Written in | Vala
 Architectures | 
 Updates | ✔
-Last update date | 2024-05-11
+Last update date | 2025-02-04
 Works offline | ✔
 Language support | 
 UI type | GUI
@@ -38,7 +40,7 @@ Dark mode | ✔
 Accessibility support | 
 Cross-platform | ❌
 Portable | ❌
-Install methods | Flatpak, Snap, build from source code
+Install methods | Flatpak, build from source code
 Theming support | 
 Tag support links | 
 
@@ -46,10 +48,7 @@ Tag support links |
 . | . |
 ---|---
 Type of tagging | custom labels
-Supported files/items | to-do tasks
-Modifies items | ✔ [^1]
-Can modify items | ✔
-Modifies metadata | ✔
+Supported items | to-do tasks
 Tags prevail item modification | ✔
 Custom tags | ✔
 Tag groups | ❌
@@ -67,7 +66,7 @@ Tag implications | ❌
 Other tag relations | ❌
 Tag descriptions | ❌
 Not allowed naming symbols | 
-Tag sorting | ❌ [^2]
+Tag sorting | ❌ [^1]
 Tags backup | ✔
 Single item tags view | ✔
 Tag statistics | ✔
@@ -83,8 +82,7 @@ Cloud saving | ✔
 Search view types | List
 View item inside program | ✔
 Items view types | Same window
-Open item in another program | n/a
-Open item disk location | n/a
+Open item in another program | 
 Item organization | Infinite scroll
 Icons | ❌
 Thumbnails | ❌
@@ -92,13 +90,15 @@ Resizing | ❌
 Full-screen mode | ❌
 Title/name | ✔
 Description | ✔
-Item path | n/a
 Item Details | Task schedule, Task priority, Add date, Update date, Task status
 Hiding items | 
 Moving items | ✔
 Sorting items | A-Z, Z-A, custom sort
 Duplicate checking | ❌
 Items backup | ✔
+Copying items | 
+Deleting items | 
+Renaming items | 
 
 ## Notes
 
@@ -106,5 +106,4 @@ Items backup | ✔
 # Contributors list
 Qronikarz(GitHub), 
 
-[^1]: Planify doesn't use actual files for tagging, to-do tasks are stored inside the program so it has full control over them.
-[^2]: It is possible to reorder labels manually by drag and drop in the all labels view
+[^1]: It is possible to reorder labels manually by drag and drop in the all labels view
