@@ -6,22 +6,24 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-07-11
+Last updated | 2025-06-13
+Last checked for updates | 2025-06-13
 
 ## General info
 . | . |
 ---|---
 Name | GitLab
-Newest version | 17.1
+Newest version | 18.0.2
 Type | Git development platform
 Website | https://about.gitlab.com/
 Tag/key words support | ✔
 Tag specification | 
-Supported OS | Web, Linux
+Supported OS | Website, Linux
 OSs default | ❌
 Supported file systems | 
 Required dependencies | 
 Price | free + paid
+Account required | ❌
 Open-source | ✔ MIT
 Repository | https://gitlab.com/gitlab-org/gitlab
 Roadmap | 
@@ -29,14 +31,14 @@ Documentation | https://docs.gitlab.com/
 Written in | Ruby, JavaScript, Vue, PLpgSQL, Haml
 Architectures | 
 Updates | ✔
-Last update date | 2024-06-20
-Works offline | ✔
+Last update date | 2024-06-11
+Works offline | 
 Language support | 
 UI type | GUI
 Interface toolkit | 
 Dark mode | ✔
 Accessibility support | 
-Cross-platform | ❌
+Cross-platform | Website
 Portable | 
 Install methods | .deb, .rpm, Docker, Helm chart, GitLab Operator, GitLab Environment Toolkit (GET), Install from source code
 Theming support | 
@@ -46,10 +48,7 @@ Tag support links | https://docs.gitlab.com/ee/user/project/labels.html
 . | . |
 ---|---
 Type of tagging | Labels, Milestones
-Supported files/items | Issues, Merge Requests
-Modifies items | 
-Can modify items | 
-Modifies metadata | 
+Supported items | Issues, Merge Requests
 Tags prevail item modification | ✔
 Custom tags | ✔
 Tag groups | ✔
@@ -84,7 +83,6 @@ Search view types | List
 View item inside program | ✔
 Items view types | Same window, New tab/window
 Open item in another program | 
-Open item disk location | 
 Item organization | Pagination with set item number
 Icons | ❌
 Thumbnails | ❌
@@ -92,13 +90,15 @@ Resizing | ❌
 Full-screen mode | ✔
 Title/name | ✔
 Description | ✔
-Item path | 
 Item Details | Creation date, Author, Due date, Participants, Time tracking, Confidentiality, Assignees
 Hiding items | ✔
 Moving items | ✔
 Sorting items | Priority, Creation date, Update date, Close date, Milestone due date, Due date, Popularity, Label priority, Manual, Title
 Duplicate checking | 
 Items backup | ✔
+Copying items | 
+Deleting items | 
+Renaming items | 
 
 ## Notes
 
