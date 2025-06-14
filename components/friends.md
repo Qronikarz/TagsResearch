@@ -6,7 +6,8 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-25
+Last updated | 2025-06-12
+Last checked for updates | 2025-06-12
 
 ## General info
 . | . |
@@ -22,6 +23,7 @@ OSs default | ❌
 Supported file systems | 
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ MIT
 Repository | https://github.com/JacobEvelyn/friends
 Roadmap | 
@@ -46,10 +48,7 @@ Tag support links |
 . | . |
 ---|---
 Type of tagging | friends.md file
-Supported files/items | custom items
-Modifies items | ✔
-Can modify items | 
-Modifies metadata | 
+Supported items | custom items
 Tags prevail item modification | 
 Custom tags | ✔
 Tag groups | 
@@ -84,7 +83,6 @@ Search view types | List
 View item inside program | 
 Items view types | 
 Open item in another program | 
-Open item disk location | 
 Item organization | 
 Icons | ❌
 Thumbnails | ❌
@@ -92,13 +90,15 @@ Resizing |
 Full-screen mode | 
 Title/name | 
 Description | 
-Item path | ❌
 Item Details | 
 Hiding items | 
 Moving items | 
 Sorting items | 
 Duplicate checking | 
 Items backup | 
+Copying items | 
+Deleting items | 
+Renaming items | 
 
 ## Notes
 
