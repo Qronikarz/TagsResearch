@@ -6,7 +6,8 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-25
+Last updated | 2025-06-12
+Last checked for updates | 2025-06-12
 
 ## General info
 . | . |
@@ -22,13 +23,14 @@ OSs default | MATE Desktop Environment
 Supported file systems | 
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ GPL 2
 Repository | https://github.com/mate-desktop/caja
 Roadmap | 
 Documentation | 
 Written in | C
 Architectures | 
-Updates | ✔
+Updates | ❌
 Last update date | 2024-02-20
 Works offline | ✔
 Language support | 
@@ -46,15 +48,15 @@ Tag support links | https://github.com/mate-desktop/caja-extensions/pull/25
 . | . |
 ---|---
 Type of tagging | Extended Attributes
-Supported files/items | 
-Modifies items | ❌
-Can modify items | ✔
-Modifies metadata | ✔
-Tags prevail item modification | ✔ and ❌ [^1]
+Supported files | 
+Modifies files | ❌
+Can modify files | ✔
+Modifies file metadata | ✔
+Tags prevail file modification | ✔ and ❌ [^1]
 Custom tags | ✔
 Tag groups | 
 All available tags view | 
-Multiple items tagging | 
+Multiple files tagging | 
 Search combining | 
 Tag autocomplete | 
 Tag colors | 
@@ -69,7 +71,7 @@ Tag descriptions |
 Not allowed naming symbols | 
 Tag sorting | 
 Tags backup | ✔
-Single item tags view | 
+Single file tags view | 
 Tag statistics | 
 Hidden tags | 
 Tagging with AI | 
@@ -77,28 +79,31 @@ Auto saving |
 Auto loading | 
 Cloud saving | 
 
-## Tagged items features
+## Tagged files features
 . | . |
 ---|---
 Search view types | Grid view, List
-View item inside program | 
-Items view types | 
-Open item in another program | 
-Open item disk location | ✔
-Item organization | Infinite scroll, Folders
+View file inside program | 
+File view types | 
+Open file in another program | 
+Open file disk location | ✔
+File organization | Infinite scroll, Folders
 Icons | ✔
 Thumbnails | ✔
 Resizing | ✔
 Full-screen mode | 
 Title/name | ✔
 Description | 
-Item path | ✔
-Item Details | Size, Type, Width, Height, Access date, Modification date
-Hiding items | ✔
-Moving items | ✔
-Sorting items | ✔
+File path | ✔
+File Details | Size, Type, Width, Height, Access date, Modification date
+Hiding files | ✔
+Moving files | ✔
+Sorting files | ✔
 Duplicate checking | 
-Items backup | ✔
+Files backup | ✔
+Copying files | ✔
+Deleting files | ✔
+Renaming files | ✔
 
 ## Notes
 
