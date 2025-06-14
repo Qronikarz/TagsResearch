@@ -6,13 +6,14 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-25
+Last updated | 2025-06-14
+Last checked for updates | 2025-06-14
 
 ## General info
 . | . |
 ---|---
 Name | Pix
-Newest version | 3.2.2
+Newest version | 3.4.5
 Type | Image manager
 Website | 
 Tag/key words support | ✔
@@ -22,6 +23,7 @@ OSs default | Linux Mint
 Supported file systems | 
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ GPL 2
 Repository | https://github.com/linuxmint/pix
 Roadmap | 
@@ -29,7 +31,7 @@ Documentation |
 Written in | C, C++, Meson, CSS, Python, YACC
 Architectures | 
 Updates | ✔
-Last update date | 
+Last update date | 2025-01-06
 Works offline | ✔
 Language support | 
 UI type | GUI
@@ -46,15 +48,15 @@ Tag support links |
 . | . |
 ---|---
 Type of tagging | XMP keywords
-Supported files/items | .bmp, .jpeg, .gif, .png, .tiff, .tga, .ico, .xpm, .jxl, .avif
-Modifies items | 
+Supported files | .bmp, .jpeg, .gif, .png, .tiff, .tga, .ico, .xpm, .jxl, .avif
+Modifies files | 
 Can modify items | ✔
-Modifies metadata | ✔
-Tags prevail item modification | 
+Modifies file metadata | ✔
+Tags prevail file modification | 
 Custom tags | ✔
 Tag groups | 
 All available tags view | ✔
-Multiple items tagging | 
+Multiple files tagging | 
 Search combining | ✔
 Tag autocomplete | 
 Tag colors | 
@@ -69,7 +71,7 @@ Tag descriptions |
 Not allowed naming symbols | 
 Tag sorting | 
 Tags backup | 
-Single item tags view | ✔
+Single file tags view | ✔
 Tag statistics | 
 Hidden tags | 
 Tagging with AI | 
@@ -77,28 +79,31 @@ Auto saving | ✔
 Auto loading | ✔
 Cloud saving | 
 
-## Tagged items features
+## Tagged files features
 . | . |
 ---|---
 Search view types | Grid
-View item inside program | ✔
-Items view types | Same window, Lightbox
-Open item in another program | ✔
-Open item disk location | ✔
-Item organization | Infnite scroll, Folders
+View file inside program | ✔
+File view types | Same window, Lightbox
+Open file in another program | ✔
+Open file disk location | ✔
+File organization | Infinite scroll, Folders
 Icons | 
 Thumbnails | ✔
 Resizing | 
 Full-screen mode | ✔
 Title/name | ✔
 Description | ✔
-Item path | ✔
-Item Details | Width, Height, Size, Type, Modified date, EXIF data
-Hiding items | 
-Moving items | ✔
-Sorting items | A-Z, File path, Size, Dimensions, Modified date, Aspect ratio, Creation date
+File path | ✔
+File Details | Width, Height, Size, Type, Modified date, EXIF data
+Hiding files | 
+Moving files | ✔
+Sorting files | A-Z, File path, Size, Dimensions, Modified date, Aspect ratio, Creation date
 Duplicate checking | 
-Items backup | ✔
+Files backup | ✔
+Copying files | 
+Deleting files | 
+Renaming files | 
 
 ## Notes
 
