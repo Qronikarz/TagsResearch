@@ -6,7 +6,8 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-25
+Last updated | 2025-06-12
+Last checked for updates | 2025-06-12
 
 ## General info
 . | . |
@@ -22,6 +23,7 @@ OSs default | Windows
 Supported file systems | NTFS
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ❌
 Repository | ❌
 Roadmap | 
@@ -46,15 +48,15 @@ Tag support links |
 . | . |
 ---|---
 Type of tagging | Alternate Data Streams extended attributes
-Supported files/items | Selected list of file types, not written anywhere
-Modifies items | ✔ [^1]
-Can modify items | ✔
-Modifies metadata | ✔
-Tags prevail item modification | ✔ and ❌ [^2]
+Supported files | Selected list of file types, not written anywhere
+Modifies files | ✔ [^1]
+Can modify files | ✔
+Modifies files metadata | ✔
+Tags prevail file modification | ✔ and ❌ [^2]
 Custom tags | ✔
 Tag groups | 
 All available tags view | 
-Multiple items tagging | 
+Multiple files tagging | 
 Search combining | 
 Tag autocomplete | 
 Tag colors | 
@@ -69,7 +71,7 @@ Tag descriptions |
 Not allowed naming symbols | 
 Tag sorting | 
 Tags backup | 
-Single item tags view | 
+Single file tags view | 
 Tag statistics | 
 Hidden tags | 
 Tagging with AI | 
@@ -77,28 +79,31 @@ Auto saving |
 Auto loading | 
 Cloud saving | 
 
-## Tagged items features
+## Tagged files features
 . | . |
 ---|---
 Search view types | Grid, List
-View item inside program | ✔
-Items view types | Side panel preview
-Open item in another program | ✔
-Open item disk location | ✔
-Item organization | Infinite scroll, Folders
+View file inside program | ✔
+File view types | Side panel preview
+Open file in another program | ✔
+Open file disk location | ✔
+File organization | Infinite scroll, Folders
 Icons | ✔
 Thumbnails | ✔
 Resizing | ✔
 Full-screen mode | 
 Title/name | ✔
 Description | 
-Item path | ✔
-Item Details | Width, Size, Type, Created date, Modified date, Accessed date, Duration
-Hiding items | ✔
-Moving items | ✔
-Sorting items | ✔
+File path | ✔
+File Details | Width, Size, Type, Created date, Modified date, Accessed date, Duration
+Hiding files | ✔
+Moving files | ✔
+Sorting files | ✔
 Duplicate checking | 
-Items backup | ✔
+Files backup | ✔
+Copying files | ✔
+Deleting files | ✔
+Renaming files | ✔
 
 ## Notes
 
