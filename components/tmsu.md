@@ -6,7 +6,8 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-18
+Last updated | 2025-06-14
+Last checked for updates | 2025-06-14
 
 ## General info
 . | . |
@@ -22,6 +23,7 @@ OSs default | ❌
 Supported file systems | 
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ GPL 3 
 Repository | https://github.com/oniony/TMSU
 Roadmap | 
@@ -46,15 +48,15 @@ Tag support links |
 . | . |
 ---|---
 Type of tagging | custom tags code
-Supported files/items | all?
-Modifies items | ❌
-Can modify items | ✔
-Modifies metadata | ✔
-Tags prevail item modification | ✔ and ❌ [^1]
+Supported files | all?
+Modifies files | ❌
+Can modify files | ✔
+Modifies file metadata | ✔
+Tags prevail file modification | ✔ and ❌ [^1]
 Custom tags | ✔
 Tag groups | 
 All available tags view | ✔
-Multiple items tagging | 
+Multiple files tagging | 
 Search combining | ✔
 Tag autocomplete | 
 Tag colors | 
@@ -69,7 +71,7 @@ Tag descriptions |
 Not allowed naming symbols | slash, backslash
 Tag sorting | 
 Tags backup | ✔ Sqlite3 database
-Single item tags view | 
+Single file tags view | 
 Tag statistics | 
 Hidden tags | 
 Tagging with AI | 
@@ -77,28 +79,31 @@ Auto saving | ✔
 Auto loading | ✔
 Cloud saving | 
 
-## Tagged items features
+## Tagged files features
 . | . |
 ---|---
 Search view types | List
-View item inside program | ❌
-Items view types | ❌
-Open item in another program | ✔
-Open item disk location | 
-Item organization | Infinite scroll
+View file inside program | ❌
+File view types | ❌
+Open file in another program | ✔
+Open file disk location | 
+File organization | Infinite scroll
 Icons | ❌
 Thumbnails | ❌
 Resizing | 
 Full-screen mode | 
 Title/name | ✔
 Description | ❌
-Item path | 
-Item Details | 
-Hiding items | 
-Moving items | 
-Sorting items | 
+File path | 
+File details | 
+Hiding files | 
+Moving files | 
+Sorting files | 
 Duplicate checking | 
-Items backup | 
+Files backup | 
+Copying files | 
+Deleting files | 
+Renaming files | 
 
 ## Notes
 
