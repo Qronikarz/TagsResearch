@@ -6,7 +6,8 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-07-11
+Last updated | 2025-06-12
+Last checked for updates | 2025-06-12
 
 ## General info
 . | . |
@@ -17,11 +18,12 @@ Type | Git development platform
 Website | https://github.com/
 Tag/key words support | ✔
 Tag specification | 
-Supported OS | Web
+Supported OS | Website
 OSs default | ❌
 Supported file systems | 
 Required dependencies | 
 Price | free + paid
+Account required | ✔
 Open-source | ❌
 Repository | 
 Roadmap | https://github.com/github/roadmap
@@ -36,7 +38,7 @@ UI type | GUI
 Interface toolkit | 
 Dark mode | ✔
 Accessibility support | 
-Cross-platform | ❌
+Cross-platform | Website
 Portable | ❌
 Install methods | 
 Theming support | 
@@ -46,10 +48,7 @@ Tag support links | https://docs.github.com/en/issues/using-labels-and-milestone
 . | . |
 ---|---
 Type of tagging | Labels, Milestones
-Supported files/items | Issues, Pull Requests, Discussions
-Modifies items | 
-Can modify items | 
-Modifies metadata | 
+Supported items | Issues, Pull Requests, Discussions
 Tags prevail item modification | ✔
 Custom tags | ✔
 Tag groups | ✔
@@ -84,7 +83,6 @@ Search view types | List
 View item inside program | ✔
 Items view types | Same window, New tab/window
 Open item in another program | ❌
-Open item disk location | ❌
 Item organization | Pagination
 Icons | ❌
 Thumbnails | ❌
@@ -92,13 +90,15 @@ Resizing | ❌
 Full-screen mode | ✔
 Title/name | ✔
 Description | ✔
-Item path | 
 Item Details | Assignees, Projects, Development, Participants, Reviewers, Files changed, Checks, Commits
 Hiding items | ✔
 Moving items | ✔
 Sorting items | Creation date, Comments number, Update date, Best match, Most reactions
 Duplicate checking | 
 Items backup | 
+Copying items | 
+Deleting items | 
+Renaming items | ✔
 
 ## Notes
 
