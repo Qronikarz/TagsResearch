@@ -6,7 +6,8 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-25
+Last updated | 2025-06-14
+Last checked for updates | 2025-06-14
 
 ## General info
 . | . |
@@ -17,11 +18,12 @@ Type | Bookmark manager
 Website | https://raindrop.io/
 Tag/key words support | ✔
 Tag specification | 
-Supported OS | Windows, Linux, macOS, Web, Android, iOS
+Supported OS | Windows, Linux, macOS, Android, iOS
 OSs default | ❌
 Supported file systems | 
 Required dependencies | 
 Price | free + paid
+Account required | ✔
 Open-source | ?
 Repository | https://github.com/raindropio
 Roadmap | 
@@ -36,7 +38,7 @@ UI type | GUI
 Interface toolkit | 
 Dark mode | ✔
 Accessibility support | 
-Cross-platform | ✔
+Cross-platform | All
 Portable | 
 Install methods | .dmg, Microsoft Store, Snap, App Store, Google Play
 Theming support | 
@@ -46,10 +48,7 @@ Tag support links | https://help.raindrop.io/tags/
 . | . |
 ---|---
 Type of tagging | 
-Supported files/items | Bookmarks
-Modifies items | 
-Can modify items | 
-Modifies metadata | 
+Supported items | Bookmarks
 Tags prevail item modification | 
 Custom tags | ✔
 Tag groups | 
@@ -84,7 +83,6 @@ Search view types | Grid, List, Masonry, Headlines
 View item inside program | 
 Items view types | 
 Open item in another program | 
-Open item disk location | 
 Item organization | 
 Icons | ✔
 Thumbnails | ✔
@@ -92,13 +90,15 @@ Resizing |
 Full-screen mode | 
 Title/name | ✔
 Description | 
-Item path | 
 Item Details | URL, Creation date
 Hiding items | 
 Moving items | 
 Sorting items | A-Z, Date
 Duplicate checking | 
 Items backup | ✔
+Copying items | 
+Deleting items | 
+Renaming items | 
 
 ## Notes
 
