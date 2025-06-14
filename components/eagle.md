@@ -6,13 +6,14 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-18
+Last updated | 2025-06-12
+Last checked for updates | 2025-06-12
 
 ## General info
 . | . |
 ---|---
 Name | Eagle
-Newest version | 3.0.0
+Newest version | 4.0.0 build10
 Type | File browser?
 Website | https://en.eagle.cool/
 Tag/key words support | ✔
@@ -22,14 +23,15 @@ OSs default | ❌
 Supported file systems | 
 Required dependencies | 
 Price | paid + free trial
+Account required | ✔
 Open-source | ❌
 Repository | ❌
-Roadmap | https://en.eagle.cool/blog/post/4.0-beta
+Roadmap | 
 Documentation | https://en.eagle.cool/docs
 Written in | 
 Architectures | 64 bit
 Updates | ✔
-Last update date | 2023-12-01
+Last update date | 2025-06-10
 Works offline | 
 Language support | 
 UI type | GUI
@@ -46,15 +48,15 @@ Tag support links |
 . | . |
 ---|---
 Type of tagging | 
-Supported files/items | 
-Modifies items | 
-Can modify items | 
-Modifies metadata | 
-Tags prevail item modification | 
+Supported files | 
+Modifies files | 
+Can modify files | 
+Modifies file metadata | 
+Tags prevail file modification | 
 Custom tags | ✔
 Tag groups | ✔
 All available tags view | ✔
-Multiple items tagging | 
+Multiple files tagging | 
 Search combining | 
 Tag autocomplete | 
 Tag colors | 
@@ -69,7 +71,7 @@ Tag descriptions |
 Not allowed naming symbols | 
 Tag sorting | 
 Tags backup | 
-Single item tags view | ✔
+Single file tags view | ✔
 Tag statistics | 
 Hidden tags | 
 Tagging with AI | 
@@ -77,27 +79,30 @@ Auto saving |
 Auto loading | 
 Cloud saving | 
 
-## Tagged items features
+## Tagged files features
 . | . |
 ---|---
 Search view types | Grid, List, Justified, Waterfall
-View item inside program | ✔
-Items view types | Same window, Side panel preview, Hover/Spacebar preview
-Open item disk location | 
-Item organization | Infinite scroll
+View file inside program | ✔
+File view types | Same window, Side panel preview, Hover/Spacebar preview
+Open file disk location | 
+File organization | Infinite scroll
 Icons | ✔
 Thumbnails | ✔
 Resizing | ✔
 Full-screen mode | 
 Title/name | ✔
 Description | ✔
-Item path | 
-Item Details | Width, Height, Size, Type, Creation date, Modified date
-Hiding items | 
-Moving items | 
-Sorting items | ✔
+File path | 
+File Details | Width, Height, Size, Type, Creation date, Modified date
+Hiding files | 
+Moving files | 
+Sorting files | ✔
 Duplicate checking | 
-Items backup | 
+Files backup | 
+Copying files | 
+Deleting files | 
+Renaming files | 
 
 ## Notes
 
