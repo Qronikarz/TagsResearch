@@ -6,13 +6,14 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-25
+Last updated | 2025-06-14
+Last checked for updates | 2025-06-14
 
 ## General info
 . | . |
 ---|---
 Name | Logseq
-Newest version | 0.10.9
+Newest version | 0.10.12
 Type | Text writing manager
 Website | https://logseq.com/
 Tag/key words support | ✔
@@ -22,6 +23,7 @@ OSs default | ❌
 Supported file systems | 
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ AGPL 3
 Repository | https://github.com/logseq/logseq
 Roadmap | https://trello.com/b/8txSM12G/roadmap
@@ -29,14 +31,14 @@ Documentation | https://docs.logseq.com/
 Written in | Clojure, TypeScript, CSS, JavaScript, HTML, Swift
 Architectures | 64 bit, ARM 64 bit
 Updates | ✔
-Last update date | 2024-04-23
+Last update date | 2025-05-26
 Works offline | ✔
 Language support | 
 UI type | GUI
 Interface toolkit | 
 Dark mode | ✔
 Accessibility support | 
-Cross-platform | ✔
+Cross-platform | All
 Portable | 
 Install methods | .dmg, .exe, AppImage, App Store, .apk
 Theming support | 
@@ -46,15 +48,15 @@ Tag support links | https://discuss.logseq.com/t/the-difference-between-page-lin
 . | . |
 ---|---
 Type of tagging | Hashtags in text file
-Supported files/items | 
-Modifies items | ✔
-Can modify items | 
-Modifies metadata | 
-Tags prevail item modification | 
+Supported files | 
+Modifies files | ✔
+Can modify files | ✔
+Modifies file metadata | 
+Tags prevail file modification | 
 Custom tags | ✔
 Tag groups | 
 All available tags view | 
-Multiple items tagging | 
+Multiple files tagging | 
 Search combining | 
 Tag autocomplete | 
 Tag colors | 
@@ -69,7 +71,7 @@ Tag descriptions |
 Not allowed naming symbols | 
 Tag sorting | 
 Tags backup | 
-Single item tags view | ✔
+Single file tags view | ✔
 Tag statistics | 
 Hidden tags | 
 Tagging with AI | 
@@ -77,28 +79,31 @@ Auto saving |
 Auto loading | 
 Cloud saving | 
 
-## Tagged items features
+## Tagged files features
 . | . |
 ---|---
 Search view types | 
-View item inside program | 
-Items view types | 
-Open item in another program | 
-Open item disk location | 
-Item organization | 
+View file inside program | 
+File view types | 
+Open file in another program | 
+Open file disk location | 
+File organization | 
 Icons | 
 Thumbnails | 
 Resizing | 
 Full-screen mode | 
 Title/name | 
 Description | 
-Item path | 
-Item Details | 
-Hiding items | 
-Moving items | 
-Sorting items | 
+File path | 
+File details | 
+Hiding files | 
+Moving files | 
+Sorting files | 
 Duplicate checking | 
-Items backup | 
+Files backup | 
+Copying files | 
+Deleting files | 
+Renaming files | 
 
 ## Notes
 
