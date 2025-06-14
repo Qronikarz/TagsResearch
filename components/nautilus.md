@@ -6,22 +6,24 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-18
+Last updated | 2025-06-14
+Last checked for updates | 2025-06-14
 
 ## General info
 . | . |
 ---|---
 Name | Nautilus
-Newest version | 
+Newest version | 48.2
 Type | File browser
 Website | https://apps.gnome.org/Nautilus/
 Tag/key words support | ❌
 Tag specification | ❌
 Supported OS | Linux
-OSs default | Ubuntu, Fedora, Zorin, 
+OSs default | Ubuntu, Zorin, 
 Supported file systems | 
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ GPL 3
 Repository | https://gitlab.gnome.org/GNOME/nautilus
 Roadmap | 
@@ -29,7 +31,7 @@ Documentation | https://help.gnome.org/users/gnome-help/stable/files.html
 Written in | C, Meson, Python, CSS, Dockerfile
 Architectures | 
 Updates | ✔
-Last update date | 
+Last update date | 2025-05-25
 Works offline | ✔
 Language support | 
 UI type | GUI
@@ -46,15 +48,15 @@ Tag support links | https://discourse.gnome.org/t/feat-xdg-extended-attribute-sp
 . | . |
 ---|---
 Type of tagging | 
-Supported files/items | 
-Modifies items | 
-Can modify items | 
-Modifies metadata | 
-Tags prevail item modification | 
+Supported files | 
+Modifies files | 
+Can modify files | 
+Modifies file metadata | 
+Tags prevail file modification | 
 Custom tags | 
 Tag groups | 
 All available tags view | 
-Multiple items tagging | 
+Multiple files tagging | 
 Search combining | 
 Tag autocomplete | 
 Tag colors | 
@@ -69,7 +71,7 @@ Tag descriptions |
 Not allowed naming symbols | 
 Tag sorting | 
 Tags backup | 
-Single item tags view | 
+Single file tags view | 
 Tag statistics | 
 Hidden tags | 
 Tagging with AI | 
@@ -77,28 +79,31 @@ Auto saving |
 Auto loading | 
 Cloud saving | 
 
-## Tagged items features
+## Tagged files features
 . | . |
 ---|---
 Search view types | 
-View item inside program | 
-Items view types | 
-Open item in another program | 
-Open item disk location | 
-Item organization | 
+View file inside program | 
+File view types | 
+Open file in another program | 
+Open file disk location | 
+File organization | 
 Icons | 
 Thumbnails | 
 Resizing | 
 Full-screen mode | 
 Title/name | 
 Description | 
-Item path | 
-Item Details | 
-Hiding items | 
-Moving items | 
-Sorting items | 
+File path | 
+File details | 
+Hiding files | 
+Moving files | 
+Sorting files | 
 Duplicate checking | 
-Items backup | 
+Files backup | 
+Copying files | 
+Deleting files | 
+Renaming files | 
 
 ## Notes
 
