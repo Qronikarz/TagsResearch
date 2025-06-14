@@ -6,13 +6,14 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-18
+Last updated | 2025-06-14
+Last checked for updates | 2025-06-14
 
 ## General info
 . | . |
 ---|---
 Name | Heroic Games Launcher
-Newest version | 2.14.1
+Newest version | 2.17.2
 Type | Gaming launcher
 Website | https://heroicgameslauncher.com/
 Tag/key words support | ✔
@@ -22,6 +23,7 @@ OSs default | ❌
 Supported file systems | n/a
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ GPL 3
 Repository | https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
 Roadmap | 
@@ -29,7 +31,7 @@ Documentation | https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/wik
 Written in | TypeScript, SCSS, CSS
 Architectures | 64 bit, ARM 64 bit
 Updates | ✔
-Last update date | 2024-04-06
+Last update date | 2025-06-10
 Works offline | ✔
 Language support | 
 UI type | GUI
@@ -46,10 +48,7 @@ Tag support links | https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
 . | . |
 ---|---
 Type of tagging | custom categories
-Supported files/items | games
-Modifies items | ❌
-Can modify items | ❌
-Modifies metadata | ❌
+Supported items | games
 Tags prevail item modification | 
 Custom tags | ✔
 Tag groups | 
@@ -84,7 +83,6 @@ Search view types | Grid, List
 View item inside program | ✔
 Items view types | Same window
 Open item in another program | ✔
-Open item disk location | 
 Item organization | 
 Icons | ❌
 Thumbnails | ✔
@@ -92,13 +90,15 @@ Resizing | ✔
 Full-screen mode | ❌
 Title/name | ✔
 Description | ✔
-Item path | 
 Item Details | Download size, Install size, Proton compatibility, Steam Deck compatibility, Last played date
 Hiding items | ✔
 Moving items | 
 Sorting items | A-Z, Z-A, Install status
 Duplicate checking | 
 Items backup | 
+Copying items | 
+Deleting items | 
+Renaming items | 
 
 ## Notes
 
