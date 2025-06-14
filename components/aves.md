@@ -6,13 +6,14 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2025-01-26
+Last updated | 2025-06-12
+Last checked for updates | 2025-06-12
 
 ## General info
 . | . |
 ---|---
 Name | Aves
-Newest version | 1.12.2
+Newest version | 1.13.2
 Type | Media gallery
 Website | 
 Tag/key words support | ✔
@@ -22,6 +23,7 @@ OSs default | ❌
 Supported file systems | 
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ BSD-3-Clause
 Repository | https://github.com/deckerst/aves
 Roadmap | 
@@ -29,9 +31,9 @@ Documentation | https://github.com/deckerst/aves/wiki
 Written in | Dart, Kotlin, Java
 Architectures | ARM 32 bit, ARM 64 bit
 Updates | ✔
-Last update date | 2025-01-13
+Last update date | 2025-06-03
 Works offline | ✔
-Language support | 
+Language support | https://hosted.weblate.org/engage/aves/
 UI type | GUI
 Interface toolkit | Flutter
 Dark mode | ✔
@@ -46,15 +48,15 @@ Tag support links |
 . | . |
 ---|---
 Type of tagging | XMP tags inside files?
-Supported files/items | jpeg, gif, png, webp, tiff, mp4 [^1]
-Modifies items | ✔
-Can modify items | ✔
-Modifies metadata | ✔
-Tags prevail item modification | 
+Supported files | jpeg, gif, png, webp, tiff, mp4 [^1]
+Modifies files | ✔
+Can modify files | ✔
+Modifies file metadata | ✔
+Tags prevail file modification | 
 Custom tags | ✔
 Tag groups | ❌
 All available tags view | ✔
-Multiple items tagging | ✔
+Multiple files tagging | ✔
 Search combining | ❌
 Tag autocomplete | ✔
 Tag colors | ❌
@@ -69,7 +71,7 @@ Tag descriptions | ❌
 Not allowed naming symbols | 
 Tag sorting | 
 Tags backup | 
-Single item tags view | ✔
+Single file tags view | ✔
 Tag statistics | ✔
 Hidden tags | ✔ [^3]
 Tagging with AI | 
@@ -77,28 +79,31 @@ Auto saving | ✔
 Auto loading | ✔
 Cloud saving | 
 
-## Tagged items features
+## Tagged files features
 . | . |
 ---|---
 Search view types | Grid
-View item inside program | ✔
-Items view types | Same screen
-Open item in another program | ✔
-Open item disk location | 
-Item organization | Folders, Infinite scroll
+View file inside program | ✔
+File view types | Same screen
+Open file in another program | ✔
+Open file disk location | 
+File organization | Folders, Infinite scroll
 Icons | 
 Thumbnails | ✔
 Resizing | 
 Full-screen mode | 
 Title/name | ✔
 Description | 
-Item path | ✔
-Item Details | Height, Width, Orientation, XMP tags
-Hiding items | ✔
-Moving items | ✔
-Sorting items | 
+File path | ✔
+File details | Height, Width, Orientation, XMP tags
+Hiding files | ✔
+Moving files | ✔
+Sorting files | 
 Duplicate checking | 
-Items backup | 
+Files backup | 
+Copying files | 
+Deleting files | 
+Renaming files | 
 
 ## Notes
 
