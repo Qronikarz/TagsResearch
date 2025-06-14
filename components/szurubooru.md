@@ -6,7 +6,8 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-18
+Last updated | 2025-06-14
+Last checked for updates | 2025-06-14
 
 ## General info
 . | . |
@@ -17,11 +18,12 @@ Type | Media board
 Website | 
 Tag/key words support | ✔
 Tag specification | 
-Supported OS | Web
+Supported OS | Website
 OSs default | ❌
 Supported file systems | 
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ GPL 3
 Repository | https://github.com/rr-/szurubooru
 Roadmap | 
@@ -36,7 +38,7 @@ UI type | GUI
 Interface toolkit | 
 Dark mode | 
 Accessibility support | 
-Cross-platform | 
+Cross-platform | Website
 Portable | 
 Install methods | Docker
 Theming support | 
@@ -46,15 +48,15 @@ Tag support links |
 . | . |
 ---|---
 Type of tagging | Custom tags
-Supported files/items | .jpg, .png, .gif, .mp4, .webm, flash animations
-Modifies items | ✔
-Can modify items | ✔
-Modifies metadata | 
-Tags prevail item modification | 
+Supported files | .jpg, .png, .gif, .mp4, .webm, flash animations
+Modifies files | ✔
+Can modify files | ✔
+Modifies file metadata | 
+Tags prevail file modification | 
 Custom tags | ✔
 Tag groups | ✔
 All available tags view | ✔
-Multiple items tagging | ✔
+Multiple files tagging | ✔
 Search combining | ✔
 Tag autocomplete | ✔
 Tag colors | ✔
@@ -69,7 +71,7 @@ Tag descriptions |
 Not allowed naming symbols | whitespace
 Tag sorting | 
 Tags backup | 
-Single item tags view | ✔
+Single file tags view | ✔
 Tag statistics | ✔
 Hidden tags | 
 Tagging with AI | 
@@ -77,28 +79,31 @@ Auto saving | ✔
 Auto loading | ✔
 Cloud saving | ✔
 
-## Tagged items features
+## Tagged files features
 . | . |
 ---|---
 Search view types | Grid
-View item inside program | ✔
-Items view types | Same tab/window, New tab/window
-Open item in another program | 
-Open item disk location | 
-Item organization | Pagination
+View file inside program | ✔
+File view types | Same tab/window, New tab/window
+Open file in another program | 
+Open file disk location | 
+File organization | Pagination
 Icons | ❌
 Thumbnails | ✔
 Resizing | 
 Full-screen mode | ✔
 Title/name | 
 Description | 
-Item path | 
-Item Details | Width, Height, Size, Type, Uploader, Upload date, 
-Hiding items | 
-Moving items | 
-Sorting items | 
+File path | 
+File Details | Width, Height, Size, Type, Uploader, Upload date, 
+Hiding files | 
+Moving files | 
+Sorting files | 
 Duplicate checking | ✔
-Items backup | 
+Files backup | 
+Copying files | 
+Deleting files | 
+Renaming files | 
 
 ## Notes
 
