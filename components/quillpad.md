@@ -6,13 +6,14 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2025-01-02
+Last updated | 2025-06-14
+Last checked for updates | 2025-06-14
 
 ## General info
 . | . |
 ---|---
 Name | Quillpad
-Newest version | 1.4.21
+Newest version | 1.4.30
 Type | Notes app
 Website | https://quillpad.github.io/
 Tag/key words support | ✔
@@ -22,6 +23,7 @@ OSs default | ❌
 Supported file systems | 
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ GPL 3
 Repository | https://github.com/quillpad/quillpad
 Roadmap | ❌
@@ -29,7 +31,7 @@ Documentation | ❌
 Written in | Kotlin
 Architectures | ARM
 Updates | ✔
-Last update date | 2024-12-21
+Last update date | 2025-06-05
 Works offline | ✔
 Language support | English, Polish
 UI type | GUI
@@ -46,10 +48,7 @@ Tag support links |
 . | . |
 ---|---
 Type of tagging | 
-Supported files/items | Notes 
-Modifies items | ❌
-Can modify items | ❌
-Modifies metadata | ❌
+Supported items | Notes
 Tags prevail item modification | ✔
 Custom tags | ✔
 Tag groups | ❌
@@ -84,7 +83,6 @@ Search view types | Grid, List
 View item inside program | ✔
 Items view types | Same screen
 Open item in another program | ✔
-Open item disk location | ❌
 Item organization | Infinite scroll
 Icons | 
 Thumbnails | 
@@ -92,13 +90,15 @@ Resizing | ✔
 Full-screen mode | 
 Title/name | ✔
 Description | ✔
-Item path | ❌
 Item Details | creation date, modification date
 Hiding items | ✔
 Moving items | ✔
 Sorting items | ✔ A-Z, Z-A, creation date, modification date
 Duplicate checking | ❌
 Items backup | ✔
+Copying items | ✔
+Deleting items | ✔
+Renaming items | ✔
 
 ## Notes
 A fork of now archived and retired Quillnote app
