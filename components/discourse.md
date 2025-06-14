@@ -6,22 +6,24 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-18
+Last updated | 2025-06-12
+Last checked for updates | 2025-06-12
 
 ## General info
 . | . |
 ---|---
 Name | Discourse
-Newest version | 3.2
+Newest version | 3.4
 Type | Forum
 Website | https://www.discourse.org/
 Tag/key words support | ✔
 Tag specification | 
-Supported OS | Web
+Supported OS | Website
 OSs default | ❌
 Supported file systems | 
 Required dependencies | 
 Price | free + paid
+Account required | ❌
 Open-source | ✔ GPL 2
 Repository | https://github.com/discourse/discourse
 Roadmap | 
@@ -29,14 +31,14 @@ Documentation | https://docs.discourse.org/
 Written in | Ruby, JavaScript, HTML, Handlebars, SCSS, Mustache
 Architectures | 
 Updates | ✔
-Last update date | 2024-01-30
+Last update date | 2025-02-04
 Works offline | ❌
 Language support | 
 UI type | GUI
 Interface toolkit | 
 Dark mode | ✔
 Accessibility support | ✔
-Cross-platform | 
+Cross-platform | Website
 Portable | 
 Install methods | 
 Theming support | ✔
@@ -46,10 +48,7 @@ Tag support links | https://blog.discourse.org/2022/01/discourse-2-8-released/, 
 . | . |
 ---|---
 Type of tagging | 
-Supported files/items | forum topics
-Modifies items | ❌
-Can modify items | ❌
-Modifies metadata | 
+Supported items | forum topics
 Tags prevail item modification | ✔
 Custom tags | ✔
 Tag groups | 
@@ -84,7 +83,6 @@ Search view types | List
 View item inside program | ✔
 Items view types | Same tab/window, New tab/window
 Open item in another program | 
-Open item disk location | ❌
 Item organization | Infinite scroll
 Icons | ❌
 Thumbnails | ❌
@@ -92,13 +90,15 @@ Resizing |
 Full-screen mode | ✔
 Title/name | ✔
 Description | ✔
-Item path | ❌
 Item Details | Creation date, Last edit date, Author, Views, Replies, Likes
 Hiding items | ✔
 Moving items | ✔
 Sorting items | ✔
 Duplicate checking | ✔
 Items backup | ✔
+Copying items | 
+Deleting items | 
+Renaming items | 
 
 ## Notes
 
