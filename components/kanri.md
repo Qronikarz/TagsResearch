@@ -6,13 +6,14 @@
 ---|---
 File considered complete | ✔
 Fact checked by the developer | ✔ trobonox(GitHub)-(v0.8.0)-(2024-12-18) [^1]
-Last updated | 2024-12-18
+Last updated | 2025-06-14
+Last checked for updates | 2025-06-14
 
 ## General info
 . | . |
 ---|---
 Name | Kanri
-Newest version | 0.8.0
+Newest version | 0.8.1
 Type | Project management board
 Website | https://www.kanriapp.com/
 Tag/key words support | ✔
@@ -22,6 +23,7 @@ OSs default | ❌
 Supported file systems | All [^2]
 Required dependencies | Webview 2
 Price | free
+Account required | ❌
 Open-source | ✔ GPL 3
 Repository | https://github.com/kanriapp/kanri
 Roadmap | https://github.com/orgs/kanriapp/projects/2
@@ -29,14 +31,14 @@ Documentation | https://www.kanriapp.com/getting-started/what-is-kanri/
 Written in | Vue, TypeScript
 Architectures | 64 bit, ARM 64 bit (macOS)
 Updates | ✔
-Last update date | 2024-10-27
+Last update date | 2025-04-09
 Works offline | ✔
 Language support | English, German
 UI type | GUI
 Interface toolkit | Tauri, Nuxt
 Dark mode | ✔
 Accessibility support | ❌
-Cross-platform | ✔
+Cross-platform | Desktop
 Portable | ✔
 Install methods | .msi, .dmg, .AppImage
 Theming support | ✔
@@ -46,10 +48,7 @@ Tag support links | ❌
 . | . |
 ---|---
 Type of tagging | Custom code
-Supported files/items | cards
-Modifies items | ❌
-Can modify items | ❌
-Modifies metadata | ❌
+Supported items | cards
 Tags prevail item modification | ✔
 Custom tags | ✔
 Tag groups | ❌
@@ -84,7 +83,6 @@ Search view types | Columns
 View item inside program | ✔
 Items view types | Modal
 Open item in another program | ❌
-Open item disk location | ❌
 Item organization | Infinite scroll
 Icons | ❌
 Thumbnails | ❌
@@ -92,13 +90,15 @@ Resizing | ✔
 Full-screen mode | ❌
 Title/name | ✔
 Description | ✔
-Item path | ❌
 Item Details | Tasks, colors
 Hiding items | ❌
 Moving items | ✔
 Sorting items | Manual sorting
 Duplicate checking | ❌
 Items backup | ✔
+Copying items | ✔
+Deleting items | ✔
+Renaming items | ✔
 
 ## Notes
 
