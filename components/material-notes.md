@@ -1,4 +1,4 @@
-# Material Notes ✔ ❌
+# Material Notes
 [Glossary](glossary.md) - explanation of below features
 
 ## File info
