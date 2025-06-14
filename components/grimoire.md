@@ -6,22 +6,24 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-25
+Last updated | 2025-06-13
+Last checked for updates | 2025-06-13
 
 ## General info
 . | . |
 ---|---
 Name | Grimoire
-Newest version | 0.3.3
+Newest version | 0.5.0
 Type | Bookmark manager
 Website | https://grimoire.pro/
 Tag/key words support | ✔
 Tag specification | 
-Supported OS | Web?
+Supported OS | Website
 OSs default | ❌
 Supported file systems | 
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ MIT
 Repository | https://github.com/goniszewski/grimoire
 Roadmap | 
@@ -29,14 +31,14 @@ Documentation | https://grimoire.pro/docs/intro/
 Written in | Svelte, TypeScript, JavaScript, Dockerfile, HTML, Shell
 Architectures | 
 Updates | ✔
-Last update date | 2024-04-15
+Last update date | 2025-02-21
 Works offline | 
 Language support | 
 UI type | GUI
 Interface toolkit | 
 Dark mode | ✔
 Accessibility support | 
-Cross-platform | 
+Cross-platform | Website
 Portable | 
 Install methods | Docker Compose
 Theming support | 
@@ -46,10 +48,7 @@ Tag support links |
 . | . |
 ---|---
 Type of tagging | 
-Supported files/items | 
-Modifies items | 
-Can modify items | 
-Modifies metadata | 
+Supported items | 
 Tags prevail item modification | 
 Custom tags | ✔
 Tag groups | 
@@ -84,7 +83,6 @@ Search view types | Grid, List
 View item inside program | ✔
 Items view types | 
 Open item in another program | 
-Open item disk location | 
 Item organization | Customizable pagination
 Icons | ✔
 Thumbnails | ✔
@@ -92,13 +90,15 @@ Resizing |
 Full-screen mode | 
 Title/name | ✔
 Description | ✔
-Item path | 
 Item Details | Rating, Read status, Flagged status, Archived, Open count, Add date, Update date
 Hiding items | 
 Moving items | 
 Sorting items | ✔
 Duplicate checking | 
 Items backup | 
+Copying items | 
+Deleting items | 
+Renaming items | 
 
 ## Notes
 
