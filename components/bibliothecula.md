@@ -6,7 +6,8 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-25
+Last updated | 2025-06-12
+Last checked for updates | 2025-06-12
 
 ## General info
 . | . |
@@ -22,6 +23,7 @@ OSs default | ❌
 Supported file systems | 
 Required dependencies | Python, Internet browser?
 Price | free
+Account required | ❌
 Open-source | ✔ GPL 3
 Repository | https://github.com/epilys/bibliothecula
 Roadmap | 
@@ -46,15 +48,15 @@ Tag support links |
 . | . |
 ---|---
 Type of tagging | 
-Supported files/items | documents
-Modifies items | 
-Can modify items | ✔
-Modifies metadata | 
-Tags prevail item modification | 
+Supported files | documents
+Modifies files | 
+Can modify files | ✔
+Modifies file metadata | 
+Tags prevail file modification | 
 Custom tags | 
 Tag groups | ✔
 All available tags view | ✔
-Multiple items tagging | 
+Multiple files tagging | 
 Search combining | 
 Tag autocomplete | 
 Tag colors | ✔
@@ -69,7 +71,7 @@ Tag descriptions |
 Not allowed naming symbols | 
 Tag sorting | 
 Tags backup | 
-Single item tags view | 
+Single file tags view | 
 Tag statistics | ✔
 Hidden tags | 
 Tagging with AI | 
@@ -77,28 +79,31 @@ Auto saving |
 Auto loading | 
 Cloud saving | 
 
-## Tagged items features
+## Tagged files features
 . | . |
 ---|---
 Search view types | Grid, Table
-View item inside program | ❌
-Items view types | 
-Open item in another program | 
-Open item disk location | 
-Item organization | Infinite scroll
+View file inside program | ❌
+File view types | 
+Open file in another program | 
+Open file disk location | 
+File organization | Infinite scroll
 Icons | 
 Thumbnails | ✔
 Resizing | 
 Full-screen mode | 
 Title/name | ✔
 Description | ✔
-Item path | 
-Item Details | Type, Size, Creation date, Modified date, author, URL
-Hiding items | 
-Moving items | 
-Sorting items | 
+File path | 
+File Details | Type, Size, Creation date, Modified date, author, URL
+Hiding files | 
+Moving files | 
+Sorting files | 
 Duplicate checking | 
-Items backup | 
+Files backup | 
+Copying files | 
+Deleting files | 
+Renaming files | 
 
 ## Notes
 
