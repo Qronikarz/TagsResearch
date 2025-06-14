@@ -6,13 +6,14 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-05-30
+Last updated | 2025-06-14
+Last checked for updates | 2025-06-14
 
 ## General info
 . | . |
 ---|---
 Name | QOwnNotes
-Newest version | 24.5.9
+Newest version | 25.6.1
 Type | Text writing manager
 Website | https://www.qownnotes.org/
 Tag/key words support | ✔
@@ -22,6 +23,7 @@ OSs default | ❌
 Supported file systems | 
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ GPL 2
 Repository | https://github.com/pbek/QOwnNotes
 Roadmap | 
@@ -29,14 +31,14 @@ Documentation | https://www.qownnotes.org/getting-started/overview.html
 Written in | C++, Shell, Makefile, CMake, QMake, JavaScript
 Architectures | 
 Updates | ✔
-Last update date | 2024-05-27
+Last update date | 2025-06-09
 Works offline | ✔
 Language support | 
 UI type | GUI
 Interface toolkit | Qt
 Dark mode | ✔
 Accessibility support | 
-Cross-platform | ✔
+Cross-platform | Desktop
 Portable | ✔
 Install methods | .exe, Linux native packages, Chocolatey, Scoop, .dmg, Snap, Flatpak, .AppImage, Install from source code
 Theming support | 
@@ -46,15 +48,15 @@ Tag support links |
 . | . |
 ---|---
 Type of tagging | notes.sqlite file
-Supported files/items | text files
-Modifies items | ❌
-Can modify items | ✔
-Modifies metadata | 
-Tags prevail item modification | 
+Supported files | text files
+Modifies files | ❌
+Can modify files | ✔
+Modifies file metadata | 
+Tags prevail file modification | 
 Custom tags | ✔
 Tag groups | 
 All available tags view | ✔
-Multiple items tagging | 
+Multiple files tagging | 
 Search combining | 
 Tag autocomplete | ✔
 Tag colors | ✔
@@ -69,7 +71,7 @@ Tag descriptions |
 Not allowed naming symbols | 
 Tag sorting | 
 Tags backup | 
-Single item tags view | ✔
+Single file tags view | ✔
 Tag statistics | ✔
 Hidden tags | 
 Tagging with AI | 
@@ -77,28 +79,31 @@ Auto saving | ✔
 Auto loading | ✔
 Cloud saving | 
 
-## Tagged items features
+## Tagged file features
 . | . |
 ---|---
 Search view types | List
-View item inside program | ✔
-Items view types | Same window
-Open item in another program | ✔
-Open item disk location | 
-Item organization | Infinite scroll
+View file inside program | ✔
+File view types | Same window
+Open file in another program | ✔
+Open file disk location | 
+File organization | Infinite scroll
 Icons | ✔
 Thumbnails | 
 Resizing | 
 Full-screen mode | 
 Title/name | ✔
 Description | 
-Item path | 
-Item Details | 
-Hiding items | 
-Moving items | ✔
-Sorting items | 
+File path | 
+File Details | 
+Hiding files | 
+Moving files | ✔
+Sorting files | 
 Duplicate checking | 
-Items backup | ✔
+Files backup | ✔
+Copying files | 
+Deleting files | 
+Renaming files | 
 
 ## Notes
 
