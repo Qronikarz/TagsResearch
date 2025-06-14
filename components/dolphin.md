@@ -6,13 +6,14 @@
 ---|---
 File considered complete | ❌
 Fact checked by the developer | ❌
-Last updated | 2024-04-25
+Last updated | 2025-06-12
+Last checked for updates | 2025-06-12
 
 ## General info
 . | . |
 ---|---
 Name | Dolphin
-Newest version | 24.02.2
+Newest version | 25.04.2
 Type | File browser
 Website | https://apps.kde.org/dolphin/
 Tag/key words support | ✔
@@ -22,6 +23,7 @@ OSs default | KDE neon, EndeavourOS, Nobara Project, Steam OS 3
 Supported file systems | 
 Required dependencies | 
 Price | free
+Account required | ❌
 Open-source | ✔ GPL 2
 Repository | https://invent.kde.org/system/dolphin
 Roadmap | 
@@ -29,7 +31,7 @@ Documentation | https://docs.kde.org/?application=dolphin
 Written in | C++, CMake, Ruby
 Architectures | 
 Updates | ✔
-Last update date | 2024-04-11
+Last update date | 2025-06-02
 Works offline | ✔
 Language support | 
 UI type | GUI
@@ -46,15 +48,15 @@ Tag support links | https://phabricator.kde.org/D7700
 . | . |
 ---|---
 Type of tagging | Extended Attributes
-Supported files/items | All files?
-Modifies items | ❌
-Can modify items | ✔
-Modifies metadata | ✔
+Supported files | All files?
+Modifies files | ❌
+Can modify file | ✔
+Modifies file metadata | ✔
 Tags prevail item modification | ✔ and ❌ [^1]
 Custom tags | ✔
 Tag groups | 
 All available tags view | ✔
-Multiple items tagging | 
+Multiple files tagging | 
 Search combining | 
 Tag autocomplete | 
 Tag colors | 
@@ -69,7 +71,7 @@ Tag descriptions |
 Not allowed naming symbols | 
 Tag sorting | 
 Tags backup | ✔
-Single item tags view | ✔
+Single file tags view | ✔
 Tag statistics | 
 Hidden tags | 
 Tagging with AI | 
@@ -77,28 +79,31 @@ Auto saving |
 Auto loading | 
 Cloud saving | 
 
-## Tagged items features
+## Tagged files features
 . | . |
 ---|---
 Search view types | Grid, List
-View item inside program | ✔
-Items view types | Sidepanel
-Open item in another program | ✔
-Open item disk location | ✔
-Item organization | Infinite scroll, Folders
+View file inside program | ✔
+File view types | Sidepanel
+Open file in another program | ✔
+Open file disk location | ✔
+File organization | Infinite scroll, Folders
 Icons | ✔
 Thumbnails | ✔
 Resizing | ✔
 Full-screen mode | 
 Title/name | ✔
 Description | 
-Item path | ✔
-Item Details | Width, Height, Size, Type, EXIF data, Access date, Modified date, Creation date
-Hiding items | ✔
-Moving items | ✔
-Sorting items | ✔
+File path | ✔
+File Details | Width, Height, Size, Type, EXIF data, Access date, Modified date, Creation date
+Hiding files | ✔
+Moving files | ✔
+Sorting files | ✔
 Duplicate checking | 
-Items backup | ✔
+Files backup | ✔
+Copying files | ✔
+Deleting files | ✔
+Renaming files | ✔
 
 ## Notes
 
