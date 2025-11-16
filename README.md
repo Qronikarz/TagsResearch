@@ -31,6 +31,6 @@ Main goal is to have it available for others to copy and use it in other project
 Qronikarz(GitHub), 
 
 # Base info
-Last updated | 2025-06-14
+Last updated | 2025-11-16
 
-Number of programs in collection | 55
+Number of programs in collection | 56
