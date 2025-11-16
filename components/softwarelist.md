@@ -97,7 +97,7 @@ Tables are sorted by the number of check marks first and software name second.
 [QOwnNotes](qownnotes.md) | Text writing manager | Windows, Linux, macOS | free | ✔ | ✔ GPL 2 | ✔ | D | ✔
 [Logseq](logseq.md) | Text writing manager | Windows, Linux, macOS, Android, iOS | free | ✔ | ✔ AGPL 3 | ✔ | A
 [Obsidian](obsidian.md) | Text writing manager | Windows, Linux, macOS, Android, iOS | free + paid | ✔ | | ✔ | A | ✔
-[bibliothecula](bibliothecula.md) | Document organizer | Windows, Linux, macOS | free | ✔ | ✔ GPL 3 | | ✔
+[bibliothecula](bibliothecula.md) | Document organizer | Windows, Linux, macOS | free | ✔ | ✔ GPL 3 | | D, W
 [Material Notes](material-notes.md) | Notes app | Android | free | ✔ | ✔ AGPL 3 | ✔
 [Quillpad](quillpad.md) | Notes app | Android | free | ✔ | ✔ GPL 3 | ✔
 
@@ -118,7 +118,7 @@ Tables are sorted by the number of check marks first and software name second.
 
 ⌄Name\Features> | Type | Supported OS | Price | Account not required | Open-Source | Updates | Cross-platform | Portable
 ---|---|---|---|---|---|---|---|---
-[Heroic Games Launcher](heroicgameslauncher.md) | Gaming launcher | Windows, Linux, macOS | free | ✔ | ✔ GPL 3 | ✔ | ✔ | ✔
+[Heroic Games Launcher](heroicgameslauncher.md) | Gaming launcher | Windows, Linux, macOS | free | ✔ | ✔ GPL 3 | ✔ | D | ✔
 [Playnite](playnite.md) | Gaming library + launcher | Windows | free | ✔ | ✔ MIT | ✔ | | ✔
 [Steam](steam.md) | Gaming store + launcher | Windows, Linux, macOS | free | | | ✔ | D
 
@@ -129,6 +129,7 @@ Tables are sorted by the number of check marks first and software name second.
 [Kanri](kanri.md) | Project management board | Windows, macOS, Linux | free | ✔ | ✔ GPL 3 | ✔ | D | ✔
 [Discourse](discourse.md) | Forum | Website | free + paid | ✔ | ✔ GPL 2 | ✔ | W
 [GitLab](gitlab.md) | Git development platform | Website | free + paid | ✔ | ✔ MIT | ✔ | W
+[Nemo Tags](nemo-tags.md) | Plugin for file browser | Linux | free | ✔ | ✔ GPL 3 | ✔
 [Planify](planify.md) | To-do list | Linux | free | ✔ | ✔ GPL 3 | ✔
 [friends](friends.md) | people relationship calendar/diary? | Linux? | free | ✔ | ✔ MIT
 [GitHub](github.md) | Git development platform | Website | free + paid | | | ✔ | W
