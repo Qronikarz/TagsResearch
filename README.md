@@ -17,7 +17,7 @@ Knowledge base originally made for improving QuoMediaView, rewritten for public 
 # Fully completed entries:
 Research: [Tags Overview](components/tagsoverview.md), [Tags Research](components/tagsresearch.md), [Glossary](components/glossary.md), [Program Template](components/programtemplate.md), [Software List](components/softwarelist.md), [Program Template nonfiles](components/programtemplate-nonfiles.md)
 
-Programs: [QuoMediaView](components/quomediaview.md), [Kanri](components/kanri.md), [TagStudio](components/tagstudio.md)
+Programs: [QuoMediaView](components/quomediaview.md), [Kanri](components/kanri.md), [TagStudio](components/tagstudio.md), [Lap](components/lap.md),
 
 Programs fact checked by developers: [QuoMediaView](components/quomediaview.md), [Kanri](components/kanri.md)
 
@@ -31,6 +31,6 @@ Main goal is to have it available for others to copy and use it in other project
 Qronikarz(GitHub), 
 
 # Base info
-Last updated | 2025-11-16
+Last updated | 2026-09-11
 
-Number of programs in collection | 56
+Number of programs in collection | 57
