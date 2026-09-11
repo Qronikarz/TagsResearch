@@ -80,6 +80,7 @@ Tables are sorted by the number of check marks first and software name second.
 ⌄Name\Features> | Type | Supported OS | Price | Account not required | Open-Source | Updates | Cross-platform | Portable
 ---|---|---|---|---|---|---|---|---
 [digiKam](digikam.md) | Image manager | Windows, Linux, macOS | free | ✔ | ✔ GPL 2 | ✔ | D | ✔
+[Lap](lap.md) | Media manager | Windows, Linux, macOS | free | ✔ | ✔ GPL 3 | ✔ | D | ✔
 [Aves](aves.md) | Media gallery | Android | free | ✔ | ✔ BSD-3-Clause | ✔ | | ✔
 [Danbooru](danbooru.md) | Media board | Website | free | ✔ | ✔ FreeBSD License | ✔ | W
 [HomeGallery](homegallery.md) | Media gallery | Windows, Linux, macOS, Website | free | ✔ | ✔ MIT | ✔ | D, W
@@ -100,7 +101,6 @@ Tables are sorted by the number of check marks first and software name second.
 [bibliothecula](bibliothecula.md) | Document organizer | Windows, Linux, macOS | free | ✔ | ✔ GPL 3 | | D, W
 [Material Notes](material-notes.md) | Notes app | Android | free | ✔ | ✔ AGPL 3 | ✔
 [Quillpad](quillpad.md) | Notes app | Android | free | ✔ | ✔ GPL 3 | ✔
-
 
 # Bookmarks
 
